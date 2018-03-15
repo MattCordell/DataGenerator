@@ -1,3 +1,10 @@
 ﻿Data has been scraped from
 https://en.wikipedia.org/wiki/List_of_most_popular_given_names
 https://en.wikipedia.org/wiki/Lists_of_most_common_surnames
+
+Birthdate popularity taken from
+http://www.abs.gov.au/ausstats%5Cabs@.nsf/0/8668A9A0D4B0156CCA25792F0016186A?Opendocument
+
+SignificantDays https://fivethirtyeight.com/features/some-people-are-too-superstitious-to-have-a-baby-on-friday-the-13th/
+drop of  -10 ~-40 for births
+increase of ~5 conception
