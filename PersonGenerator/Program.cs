@@ -24,7 +24,7 @@ namespace PersonGenerator
 
             Person p = new Person();
 
-
+            
             int num = 1000;
 
             using (TextWriter wrtr = new StreamWriter("ListOfPeople.txt"))
