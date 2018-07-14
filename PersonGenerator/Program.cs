@@ -9,6 +9,7 @@ using System.IO;
 using MathNet.Numerics;
 using MathNet.Numerics.Distributions;
 using MathNet.Numerics.Random;
+using System.Resources;
 
 
 namespace PersonGenerator
@@ -22,9 +23,19 @@ namespace PersonGenerator
 
             Console.WriteLine("Start");
 
-            Person p = new Person();
+            Person p = new Person();           
 
-            
+            var names = Properties.Resources.FirstMaleNames.Split(new string[] { Environment.NewLine }, StringSplitOptions.None);
+
+            Console.WriteLine(names[5]);
+            Console.WriteLine(names[2]);
+            Console.WriteLine(names[1]);
+
+            Console.ReadKey();
+            Console.WriteLine("Start");
+
+
+
             int num = 1000;
 
             using (TextWriter wrtr = new StreamWriter("ListOfPeople.txt"))
