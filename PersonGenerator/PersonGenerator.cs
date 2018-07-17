@@ -24,9 +24,10 @@ namespace PersonGenerator
 
     class PersonGenerator
     {
-        private string[] maleNames = Properties.Resources.FirstMaleNames.Split(new string[] { Environment.NewLine }, StringSplitOptions.None);
-        private string[] femaleNames = Properties.Resources.FirstFemaleNames.Split(new string[] { Environment.NewLine }, StringSplitOptions.None);
-        private string[] lastNames = Properties.Resources.LastNames.Split(new string[] { Environment.NewLine }, StringSplitOptions.None);
+        private string[] maleNames = Properties.Resources.FirstMaleNames.Split(new string[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries);
+        private string[] femaleNames = Properties.Resources.FirstFemaleNames.Split(new string[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries);
+        private string[] lastNames = Properties.Resources.LastNames.Split(new string[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries);
+        private float[] ageDistribution = Array.ConvertAll(Properties.Resources.InitialAgeDistribution.Split(new string[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries),float.Parse);
         internal static Random rnd = new Random();
         
         private int currentYear;
@@ -53,8 +54,6 @@ namespace PersonGenerator
             return lastNames.RandomElement(rnd);
         }
         
-        
-
         public bool GenerateSex()
         {
             int x = rnd.Next(2);
@@ -77,6 +76,15 @@ namespace PersonGenerator
             int d = rnd.Next(1, DateTime.DaysInMonth(birthYear, m));
 
             return new DateTime(birthYear, m, d);
+        }
+
+        public int GetRandomAge()
+        {
+            var v = rnd.NextDouble();
+            // select the min element greater than v
+            //currently the index == age
+            //cummulative age distribution allows normal randoms to select ages at correct rate.
+            return Array.IndexOf(ageDistribution, ageDistribution.Where(g => g > v).Min());                       
         }
 
     }

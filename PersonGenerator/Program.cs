@@ -35,10 +35,13 @@ namespace PersonGenerator
                     p.lastName = Generator.GetLastName();
                     p.dob = Generator.GetaDOB(rnd.Next(100));
 
-                    wrtr.WriteLine(p.ToString());
+                    wrtr.WriteLine(Generator.GetRandomAge());
                 }
 
             }
+
+
+            Console.WriteLine(Generator.GetRandomAge().ToString());
 
             Console.WriteLine("Done");
             Console.ReadKey();
