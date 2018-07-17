@@ -30,12 +30,7 @@ namespace PersonGenerator
             {
                 for (int i = 0; i < num; i++)
                 {
-                    p.isFemale = Generator.GenerateSex();
-                    p.firstName = Generator.GetFirstName(p.isFemale);
-                    p.lastName = Generator.GetLastName();
-                    p.dob = Generator.GetaDOB(rnd.Next(100));
-
-                    wrtr.WriteLine(Generator.GetRandomAge());
+                    wrtr.WriteLine(Generator.NewPerson().ToString());
                 }
 
             }

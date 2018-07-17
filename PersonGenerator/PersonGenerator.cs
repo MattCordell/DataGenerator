@@ -15,9 +15,24 @@ namespace PersonGenerator
         public bool isFemale;
         public DateTime dob;
 
+        public char Sex
+        {
+            get
+            {
+                if (isFemale)
+                {
+                    return 'F';
+                }
+                else
+                {
+                    return 'M';
+                }
+            }
+        }
+
         public override string ToString()
         {
-            return firstName + " " + lastName + " " + dob.ToString("d");
+            return firstName + " " + lastName + " " + Sex + " " + dob.ToString("d");
         }
         
     }
@@ -29,8 +44,21 @@ namespace PersonGenerator
         private string[] lastNames = Properties.Resources.LastNames.Split(new string[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries);
         private float[] ageDistribution = Array.ConvertAll(Properties.Resources.InitialAgeDistribution.Split(new string[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries),float.Parse);
         internal static Random rnd = new Random();
-        
         private int currentYear;
+
+        //object for generating new humans :D
+        Person human = new Person();
+
+        public Person NewPerson()
+        {
+            var age = GetRandomAge();
+            human.dob = GetaDOB(age);
+            human.isFemale = GenerateSex(age);
+            human.firstName = GetFirstName(human.isFemale);
+            human.lastName = GetLastName();
+
+            return human;
+        }
 
         public PersonGenerator(int currYear)
         {
@@ -54,8 +82,9 @@ namespace PersonGenerator
             return lastNames.RandomElement(rnd);
         }
         
-        public bool GenerateSex()
+        public bool GenerateSex(int age)
         {
+            //need to implement age dependent sex distribution.
             int x = rnd.Next(2);
 
             if (x == 0)
