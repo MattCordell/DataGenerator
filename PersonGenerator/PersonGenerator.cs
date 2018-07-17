@@ -45,15 +45,28 @@ namespace PersonGenerator
         private float[] ageDistribution = Array.ConvertAll(Properties.Resources.InitialAgeDistribution.Split(new string[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries),float.Parse);
         internal static Random rnd = new Random();
         private int currentYear;
+        internal float SexSplit = 0.5f;
 
         //object for generating new humans :D
         Person human = new Person();
 
-        public Person NewPerson()
+        public Person NewGeneralPopulationMember()
         {
             var age = GetRandomAge();
             human.dob = GetaDOB(age);
             human.isFemale = GenerateSex(age);
+            human.firstName = GetFirstName(human.isFemale);
+            human.lastName = GetLastName();
+
+            return human;
+        }
+
+        //Generate a new born
+        public Person NewBorn()
+        {
+            var age = 0;
+            human.dob = GetaDOB(age);
+            human.isFemale = GenerateSex(); // newborn uses ongoing sexSplit
             human.firstName = GetFirstName(human.isFemale);
             human.lastName = GetLastName();
 
@@ -81,7 +94,24 @@ namespace PersonGenerator
         {
             return lastNames.RandomElement(rnd);
         }
-        
+
+        public bool GenerateSex()
+        {
+            //need to implement use of sexSplit, which will "drift"
+            int x = rnd.Next(2);
+
+            if (x == 0)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+
+        }
+
+        //Age dependent method
         public bool GenerateSex(int age)
         {
             //need to implement age dependent sex distribution.

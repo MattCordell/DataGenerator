@@ -30,7 +30,7 @@ namespace PersonGenerator
             {
                 for (int i = 0; i < num; i++)
                 {
-                    wrtr.WriteLine(Generator.NewPerson().ToString());
+                    wrtr.WriteLine(Generator.NewGeneralPopulationMember().ToString());
                 }
 
             }
