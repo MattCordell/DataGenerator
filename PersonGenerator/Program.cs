@@ -10,7 +10,7 @@ using MathNet.Numerics;
 using MathNet.Numerics.Distributions;
 using MathNet.Numerics.Random;
 using System.Resources;
-
+using System.Diagnostics;
 
 namespace PersonGenerator
 {
@@ -25,7 +25,8 @@ namespace PersonGenerator
             Console.WriteLine("Start");
             
             int num = 1000;
-
+            var watch = new Stopwatch();
+            watch.Start();
             using (TextWriter wrtr = new StreamWriter("ListOfPeople.txt"))
             {
                 for (int i = 0; i < num; i++)
@@ -34,9 +35,9 @@ namespace PersonGenerator
                 }
 
             }
+            watch.Stop();
 
-
-            Console.WriteLine(Generator.GetRandomAge().ToString());
+            Console.WriteLine(watch.ElapsedMilliseconds);
 
             Console.WriteLine("Done");
             Console.ReadKey();
