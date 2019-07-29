@@ -74,7 +74,7 @@
     <Content Include="Data\LastNames.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Data\References.txt" />
+    <EmbeddedResource Include="Data\References.txt" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Properties\Resources.resx">

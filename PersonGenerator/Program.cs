@@ -25,17 +25,6 @@ namespace PersonGenerator
 
             Person p = new Person();           
 
-            var names = Properties.Resources.FirstMaleNames.Split(new string[] { Environment.NewLine }, StringSplitOptions.None);
-
-            Console.WriteLine(names[5]);
-            Console.WriteLine(names[2]);
-            Console.WriteLine(names[1]);
-
-            Console.ReadKey();
-            Console.WriteLine("Start");
-
-
-
             int num = 1000;
 
             using (TextWriter wrtr = new StreamWriter("ListOfPeople.txt"))
@@ -125,25 +114,19 @@ namespace PersonGenerator
         private void InitialiseFirstNames()
         {
             GenderedName first = new GenderedName();
-            
-            // Read Female Names
-            using (TextReader rdr = new StreamReader(@"Data\FirstFemaleNames.txt"))
+
+            var femaleNames = Properties.Resources.FirstFemaleNames.Split(new string[] { Environment.NewLine }, StringSplitOptions.None);
+            foreach (var name in femaleNames)
             {
                 first.isFemale = true;
-                while ((first.name = rdr.ReadLine()) != null)
-                {
-                    firstNames.Add(first);
-                }
+                firstNames.Add(first);
             }
 
-            // Read Male Names
-            using (TextReader rdr = new StreamReader(@"Data\FirstMaleNames.txt"))
+            var maleNames = Properties.Resources.FirstMaleNames.Split(new string[] { Environment.NewLine }, StringSplitOptions.None);
+            foreach (var name in maleNames)
             {
                 first.isFemale = false;
-                while ((first.name = rdr.ReadLine()) != null)
-                {
-                    firstNames.Add(first);
-                }
+                firstNames.Add(first);
             }
 
         }
