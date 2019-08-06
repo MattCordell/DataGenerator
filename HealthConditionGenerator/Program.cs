@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Hl7.Fhir.Model;
+using Hl7.Fhir.Rest;
 
 namespace HealthConditionGenerator
 {
@@ -13,6 +15,9 @@ namespace HealthConditionGenerator
             var HG = new HealthConditionGenerator();
 
             Console.WriteLine("Done");
+
+            
+            
 
             Console.ReadKey();
         }
@@ -26,13 +31,16 @@ namespace HealthConditionGenerator
         Dictionary<int, List<double>> MaleFrequencies = new Dictionary<int, List<double>>();
         List<Int64> availableCodes = new List<long>();
         Random rng = new Random(42);
+        const string Endpoint = "https://ontoserver.csiro.au/stu3-latest";
+
 
         public HealthConditionGenerator()
         {
             FemaleFrequencies = InitialiseFrequencies(Properties.Resources.HealthConditions_Female);
             MaleFrequencies = InitialiseFrequencies(Properties.Resources.HealthConditions_Male);
 
-            //availableCodes = ECLexpandToList(string ecl);
+            //availableCodes = ECLexpandToList("^32570071000036102");
+
             //femaleExclusiveCodes = ECLexpandToList(string ecl);
             //maleExclusiveCodes = ECLexpandToList(string ecl);
             //fertilityCodes = ECLexpandToList(string ecl);
@@ -42,9 +50,27 @@ namespace HealthConditionGenerator
 
         }
 
-        private List<long> ECLexpandToList(string v)
-        {
-            throw new NotImplementedException();
+        public List<long> ECLexpandToList(string v)
+        {      
+            //need to paginate :(
+            const string ValueSetURL = "http://snomed.info/sct?fhir_vs=ecl/";
+            var exp = string.Concat(ValueSetURL,v);
+
+
+            var client = new FhirClient(Endpoint);
+            var url = new FhirUri(exp);
+            var result = client.ExpandValueSet(url);
+
+            var q = result.Expansion.Contains.Select(x => x.Code);
+
+            var codes = new List<long>();
+
+            foreach (var item in q)
+            {
+                codes.Add(long.Parse(item));
+            }
+
+            return codes;
         }
 
         public string GetHealthCondition(int age, bool isfemale)
@@ -126,13 +152,15 @@ namespace HealthConditionGenerator
         {
             var input = ECLfile.Split(new string[] { Environment.NewLine }, StringSplitOptions.None);
             var ECL = new List<List<Int64>>();
+            var uber = new List<List<Int64>>();
 
-            //Skip out HEADER                      
-            input = input.Skip(1).ToArray();
-
-            //Use Header to initialse the List Of Lists
+            //interate and expand
             foreach (var line in input)
             {
+                Console.WriteLine("Expanding " + line);
+
+                uber.Add(ECLexpandToList(line));
+                Console.WriteLine("Done Expanind");
                 //Execute valueSet Expand on the ECL (standalone method)
                 //Add each code to List<>
                 //Exclude codes that have already been used (not available)
