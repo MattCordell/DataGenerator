@@ -1,0 +1,1430 @@
+57514000	3-Oxo-5 alpha-steroid delta 4-dehydrogenase deficiency (disorder)	3-Oxo-5 alpha-steroid delta 4-dehydrogenase deficiency
+300525002	Able to get an erection (finding)	Able to get an erection
+446551005	Able to get an erection when alone (finding)	Able to get an erection when alone
+5049001	Abnormal angle of erection (finding)	Abnormal angle of erection
+274685007	Abnormal cytological finding in specimen from male genital organ (finding)	Abnormal cytological finding in specimen from male genital organ
+386674000	Abnormal ejaculation (finding)	Abnormal ejaculation
+274852001	Abnormal enzyme level in specimens from male genital organs (finding)	Abnormal enzyme level in specimens from male genital organs
+274835000	Abnormal histological finding in specimen from male genital organ (finding)	Abnormal histological finding in specimen from male genital organ
+274860000	Abnormal hormone level in specimen from male genital organ (finding)	Abnormal hormone level in specimen from male genital organ
+274846002	Abnormal immunological finding in specimen from male genital organ (finding)	Abnormal immunological finding in specimen from male genital organ
+5413009	Abnormal male sexual function (finding)	Male sexual dysfunction
+274682005	Abnormal microbiological finding in specimen from male genital organ (finding)	Abnormal microbiological finding in specimen from male genital organ
+4529005	Abnormal spermatogenesis (disorder)	Abnormal spermatogenesis
+50293005	Abrasion and/or friction burn of penis with infection (disorder)	Abrasion and/or friction burn of penis with infection
+18823009	Abrasion and/or friction burn of penis without infection (disorder)	Abrasion and/or friction burn of penis without infection
+84204007	Abrasion and/or friction burn of scrotum with infection (disorder)	Abrasion and/or friction burn of scrotum with infection
+57971009	Abrasion and/or friction burn of scrotum without infection (disorder)	Abrasion and/or friction burn of scrotum without infection
+9090007	Abrasion and/or friction burn of testis without infection (disorder)	Abrasion and/or friction burn of testis without infection
+211064009	Abrasion of penis, infected (disorder)	Abrasion of penis, infected
+211048001	Abrasion, penis (disorder)	Abrasion, penis
+57593007	Abscess of corpus cavernosum (disorder)	Abscess of corpus cavernosum
+20025003	Abscess of Cowper's gland (disorder)	Abscess of Cowper's gland
+39729001	Abscess of epididymis (disorder)	Abscess of epididymis
+36029005	Abscess of penis (disorder)	Abscess of penis
+8725005	Abscess of prostate (disorder)	Abscess of prostate
+27717006	Abscess of scrotum (disorder)	Abscess of scrotum
+42855005	Abscess of seminal vesicle (disorder)	Abscess of seminal vesicle
+18957000	Abscess of spermatic cord (disorder)	Abscess of spermatic cord
+95593001	Abscess of testis (disorder)	Abscess of testis
+33724004	Abscess of tunica vaginalis (disorder)	Abscess of tunica vaginalis
+39235000	Abscess of vas deferens (disorder)	Abscess of vas deferens
+42288005	Absence of ejaculation (finding)	Absence of ejaculation
+249239007	Absence of testicle in scrotum (finding)	Absence of testicle in scrotum
+249233008	Absent scrotum (finding)	Absent scrotum
+237804005	Absent testes (finding)	Absent testes
+721554002	Acquired absence of male genital organ (disorder)	Acquired absence of male genital organ
+311497003	Acquired absent testis (disorder)	Acquired absent testis
+236756001	Acquired buried penis (disorder)	Acquired buried penis
+735635007	Acquired generalized delayed ejaculation (finding)	Acquired generalised delayed ejaculation
+735631003	Acquired generalized early ejaculation (finding)	Acquired generalised early ejaculation
+236775006	Acquired hydrocele (disorder)	Acquired hydrocele
+236812009	Acquired impaired spermatogenesis (disorder)	Acquired impaired spermatogenesis
+236809006	Acquired male infertility (disorder)	Acquired male infertility
+236810001	Acquired male infertility of endocrine origin (disorder)	Acquired male infertility of endocrine origin
+198014000	Acquired obstructive azoospermia (disorder)	Acquired obstructive azoospermia
+1051000119103	Acquired penile adhesion (disorder)	Acquired penile adhesion
+266571009	Acquired phimosis (disorder)	Acquired phimosis
+735636008	Acquired situational delayed ejaculation (finding)	Acquired situational delayed ejaculation
+735632005	Acquired situational early ejaculation (finding)	Acquired situational early ejaculation
+360392003	Acquired stricture of vas deferens (disorder)	Acquired stricture of vas deferens
+121871000119100	Acquired synechiae of foreskin of penis (disorder)	Acquired synechiae of foreskin of penis
+236811002	Acquired testicular failure (disorder)	Acquired testicular failure
+197964007	Actinomycotic prostatitis (disorder)	Actinomycotic prostatitis
+127342003	Acute disorder of male genital organ (disorder)	Acute disorder of male genital organ
+43491000	Acute epididymitis (disorder)	Acute epididymitis
+30168008	Acute gonococcal epididymo-orchitis (disorder)	Acute gonococcal epididymo-orchitis
+111806005	Acute gonococcal prostatitis (disorder)	Acute gonococcal prostatitis
+65049003	Acute gonococcal seminal vesiculitis (disorder)	Acute gonococcal seminal vesiculitis
+403464001	Acute infective balanitis (disorder)	Acute infective balanitis
+17951000119105	Acute male pelvic abscess (disorder)	Acute male pelvic abscess
+702715008	Acute on chronic prostatitis (disorder)	Acute on chronic prostatitis
+45082006	Acute orchitis (disorder)	Acute orchitis
+722829006	Acute pain of scrotum (finding)	Acute pain of scrotum
+79411002	Acute prostatitis (disorder)	Acute prostatitis
+764846009	Adenocarcinoma of penis (disorder)	Adenocarcinoma of penis
+399490008	Adenocarcinoma of prostate (disorder)	Adenocarcinoma of prostate
+447800002	Adenocarcinoma of scrotum (disorder)	Adenocarcinoma of scrotum
+449052009	Adenomatoid tumor of epididymis (disorder)	Adenomatoid tumour of epididymis
+109863007	Adenomatous hyperplasia of rete testis (disorder)	Adenomatous hyperplasia of rete testis
+35602005	Adherent prepuce (disorder)	Adherent prepuce
+367731000119102	Adherent prepuce of newborn (disorder)	Adherent prepuce of newborn
+249263004	Adhesions of foreskin (finding)	Adhesions of foreskin
+32561000119105	Adult hydrocele (disorder)	Adult hydrocele
+288681000119103	Adult victim of physical abuse by male partner (finding)	Adult victim of physical abuse by male partner
+218395001	Adverse reaction caused by male fern oleoresin (disorder)	Adverse reaction to male fern oleoresin
+102525006	Age more than 50 years, male (finding)	Age more than 50 years, male
+12364003	Aggravated prostatism (disorder)	Aggravated prostatism
+402256001	Allergic contact dermatitis of male genitalia (disorder)	Allergic contact dermatitis of male genitalia
+248776004	Always has an erection (finding)	Always has an erection
+50227004	Amebic balanitis (disorder)	Amoebic balanitis
+282354001	Amyloid of prostate (disorder)	Amyloid of prostate
+282355000	Amyloid of testes (disorder)	Amyloid of testes
+236746000	Anaerobic balanitis (disorder)	Anaerobic balanitis
+236798003	Androgen resistance - infertile male (disorder)	Androgen resistance - infertile male
+237809000	Androgen-induced testicular atrophy (disorder)	Androgen-induced testicular atrophy
+248782001	Anejaculation (disorder)	Anejaculation
+403471006	Aphthosis of glans penis (disorder)	Aphthosis of glans penis
+426567008	Aphthous ulcer of male genital organ (disorder)	Aphthous ulcer of male genital organ
+204908001	Aplasia of penis (disorder)	Aplasia of penis
+702616003	Aplasia of spermatic cord (disorder)	Aplasia of spermatic cord
+702627001	Aplasia of testicle (disorder)	Aplasia of testicle
+282347007	Arteriopathic impotence (disorder)	Arteriopathic impotence
+28302007	Aspermatogenic sterility (finding)	Aspermatogenic sterility
+448921000	Aspermia (finding)	Aspermia
+24463005	Asthenozoospermia (finding)	Asthenozoospermia
+100191000119105	Asymmetry of prostate (finding)	Asymmetry of prostate
+708059004	Atresia of penile urethra (disorder)	Atresia of penile urethra
+25999001	Atrophy of corpus cavernosum (disorder)	Atrophy of corpus cavernosum
+198037006	Atrophy of penis (disorder)	Atrophy of penis
+29524003	Atrophy of prostate (disorder)	Atrophy of prostate
+47371007	Atrophy of scrotum (disorder)	Atrophy of scrotum
+49398001	Atrophy of seminal vesicle (disorder)	Atrophy of seminal vesicle
+70843000	Atrophy of spermatic cord (disorder)	Atrophy of spermatic cord
+17585008	Atrophy of testis (disorder)	Atrophy of testis
+48732008	Atrophy of tunica vaginalis (disorder)	Atrophy of tunica vaginalis
+33000001	Atrophy of vas deferens (disorder)	Atrophy of vas deferens
+425558002	Azoospermia (disorder)	Azoospermia
+48188009	Azoospermia (finding)	Sperm absent
+720469008	Azoospermia caused by chemotherapy (disorder)	Azoospermia caused by chemotherapy
+366981000119102	Azoospermia caused by radiation (disorder)	Azoospermia caused by radiation
+427670006	Azoospermia due to drug (disorder)	Azoospermia due to drug
+366971000119100	Azoospermia due to infectious disease (disorder)	Azoospermia due to infectious disease
+427121008	Azoospermia due to obstruction (disorder)	Azoospermia due to obstruction
+425793006	Azoospermia due to systemic disease (disorder)	Azoospermia due to systemic disease
+236793007	Azoospermia with absent vasa in association with cystic fibrosis trait (disorder)	Azoospermia with absent vasa in association with cystic fibrosis trait
+169838000	Baby male (finding)	Baby male
+236745001	Bacterial balanitis (disorder)	Bacterial balanitis
+44882003	Balanitis (disorder)	Balanitis
+9076009	Balanitis circinata (disorder)	Balanitis circinata
+236743008	Balanitis circumscripta plasmacellularis (disorder)	Balanitis circumscripta plasmacellularis
+198033005	Balanitis xerotica obliterans (disorder)	Balanitis xerotica obliterans
+46090001	Balanoposthitis (disorder)	Balanoposthitis
+249259006	Ballooning of foreskin (finding)	Ballooning of foreskin
+234108004	Bancroftian filarial chylocele (disorder)	Bancroftian filarial chylocele
+110441005	Barr body absent, nuclear sex male (finding)	Barr body absent, nuclear sex male
+21173002	Benign adenoma of prostate (disorder)	Benign adenoma of prostate
+444808002	Benign localized hyperplasia of prostate (disorder)	Benign localised hyperplasia of prostate
+712818008	Benign localized hyperplasia of prostate without outflow obstruction (disorder)	Benign localised hyperplasia of prostate without outflow obstruction
+91983007	Benign neoplasm of areola of male breast (disorder)	Benign neoplasm of areola of male breast
+92019002	Benign neoplasm of body of penis (disorder)	Benign neoplasm of body of penis
+92082002	Benign neoplasm of ectopic male breast tissue (disorder)	Benign neoplasm of ectopic male breast tissue
+92088003	Benign neoplasm of epididymis (disorder)	Benign neoplasm of epididymis
+92120005	Benign neoplasm of glans penis (disorder)	Benign neoplasm of glans penis
+92206006	Benign neoplasm of male breast (disorder)	Benign neoplasm of male breast
+92207002	Benign neoplasm of male genital organ (disorder)	Benign neoplasm of male genital organ
+92249007	Benign neoplasm of nipple of male breast (disorder)	Benign neoplasm of nipple of male breast
+92286008	Benign neoplasm of penis (disorder)	Benign neoplasm of penis
+92112008	Benign neoplasm of prepuce (disorder)	Benign neoplasm of prepuce
+92308005	Benign neoplasm of prostate (disorder)	Benign neoplasm of prostate
+92336000	Benign neoplasm of scrotum (disorder)	Benign neoplasm of scrotum
+92402005	Benign neoplasm of spermatic cord (disorder)	Benign neoplasm of spermatic cord
+92428008	Benign neoplasm of testis (disorder)	Benign neoplasm of testis
+92456003	Benign neoplasm of undescended testis (disorder)	Benign neoplasm of undescended testis
+92476009	Benign neoplasm of vas deferens (disorder)	Benign neoplasm of vas deferens
+266569009	Benign prostatic hyperplasia (disorder)	Benign prostatic hyperplasia
+236646007	Benign prostatic hypertrophy with outflow obstruction (disorder)	Benign prostatic hypertrophy with outflow obstruction
+254902007	Benign prostatic hypertrophy without outflow obstruction (disorder)	Benign prostatic hypertrophy without outflow obstruction
+447799001	Benign teratoma of testis (disorder)	Benign teratoma of testis
+189136007	Benign tumor of corpus cavernosum (disorder)	Benign tumour of corpus cavernosum
+189135006	Benign tumor of corpus spongiosum (disorder)	Benign tumour of corpus spongiosum
+189138008	Benign tumor of scrotal skin (disorder)	Benign tumour of scrotal skin
+189140003	Benign tumor of seminal vesicle (disorder)	Benign tumour of seminal vesicle
+276418007	Benign tumor of skin of penis (disorder)	Benign tumour of skin of penis
+236780002	Bifid scrotum (disorder)	Bifid scrotum
+237808008	Bilateral atrophy of testes (disorder)	Bilateral atrophy of testes
+228474006	Bisexual - predominantly heterosexual (finding)	Bisexual - predominantly heterosexual
+228475007	Bisexual - predominantly homosexual (finding)	Bisexual - predominantly homosexual
+42035005	Bisexual (finding)	Bisexual
+197965008	Blastomycotic prostatitis (disorder)	Blastomycotic prostatitis
+707504005	Bleeding from male urethra (finding)	Bleeding from male urethra
+438510004	Bleeding varices of prostate (disorder)	Bleeding varices of prostate
+88646002	Blister of penis with infection (disorder)	Blister of penis with infection
+89604000	Blister of penis without infection (disorder)	Blister of penis without infection
+41232003	Blister of scrotum with infection (disorder)	Blister of scrotum with infection
+6603000	Blister of scrotum without infection (disorder)	Blister of scrotum without infection
+80723008	Blister of testis with infection (disorder)	Blister of testis with infection
+431469000	Boggy prostate (finding)	Boggy prostate
+310008	Boil of penis (disorder)	Boil of penis
+12864009	Boil of scrotum (disorder)	Boil of scrotum
+48012003	Boil of tunica vaginalis (disorder)	Boil of tunica vaginalis
+55028001	Boil of vas deferens (disorder)	Boil of vas deferens
+398831006	Bowen's disease of penis (disorder)	Bowen's disease of penis
+398679002	Bowenoid papulosis of penis (disorder)	Bowenoid papulosis of penis
+400118002	Bowenoid papulosis of penis with penile intraepithelial neoplasia grade III (disorder)	Bowenoid papulosis of penis (PIN III)
+299870007	Bulbocavernosus reflex negative (finding)	Bulbocavernosus reflex negative
+299869006	Bulbocavernosus reflex positive (finding)	Bulbocavernosus reflex positive
+48689002	Burn of male genitalia (disorder)	Burn of male genitalia
+283972009	Burn of male perineum (disorder)	Burn of male perineum
+283950007	Burn of penis (disorder)	Burn of penis
+283953009	Burn of scrotum (disorder)	Burn of scrotum
+238969001	Burning scrotum (disorder)	Burning scrotum
+85324003	Calculus of prostate (disorder)	Calculus of prostate
+52643007	Candidal balanitis (disorder)	Candidal balanitis
+360380003	Candidal balano-posthitis (disorder)	Candidal balano-posthitis
+248773007	Cannot get an erection (finding)	Cannot get an erection
+248779006	Cannot sustain an erection (finding)	Cannot sustain an erection
+41394002	Carbuncle of corpus cavernosum (disorder)	Carbuncle of corpus cavernosum
+27351007	Carbuncle of penis (disorder)	Carbuncle of penis
+46355004	Carbuncle of scrotum (disorder)	Carbuncle of scrotum
+34684001	Carbuncle of spermatic cord (disorder)	Carbuncle of spermatic cord
+28004004	Carbuncle of tunica vaginalis (disorder)	Carbuncle of tunica vaginalis
+56269007	Carbuncle of vas deferens (disorder)	Carbuncle of vas deferens
+92541009	Carcinoma in situ of areola of male breast (disorder)	Carcinoma in situ of areola of male breast
+92548003	Carcinoma in situ of body of penis (disorder)	Carcinoma in situ of body of penis
+92579004	Carcinoma in situ of ectopic male breast tissue (disorder)	Carcinoma in situ of ectopic male breast tissue
+92583004	Carcinoma in situ of epididymis (disorder)	Carcinoma in situ of epididymis
+92602000	Carcinoma in situ of glans penis (disorder)	Carcinoma in situ of glans penis
+92652009	Carcinoma in situ of male breast (disorder)	Carcinoma in situ of male breast
+92653004	Carcinoma in situ of male genital organ (disorder)	Carcinoma in situ of male genital organ
+92666004	Carcinoma in situ of nipple of male breast (disorder)	Carcinoma in situ of nipple of male breast
+92679008	Carcinoma in situ of penis (disorder)	Carcinoma in situ of penis
+92596003	Carcinoma in situ of prepuce (disorder)	Carcinoma in situ of prepuce
+92691004	Carcinoma in situ of prostate (disorder)	Carcinoma in situ of prostate
+255149000	Carcinoma in situ of prostatic ducts (disorder)	Carcinoma in situ of prostatic ducts
+92706007	Carcinoma in situ of scrotum (disorder)	Carcinoma in situ of scrotum
+723164006	Carcinoma in situ of skin of penis (disorder)	Carcinoma in situ of skin of penis
+92752000	Carcinoma in situ of spermatic cord (disorder)	Carcinoma in situ of spermatic cord
+92764008	Carcinoma in situ of testis (disorder)	Carcinoma in situ of testis
+92775007	Carcinoma in situ of undescended testis (disorder)	Carcinoma in situ of undescended testis
+92793008	Carcinoma in situ of vas deferens (disorder)	Carcinoma in situ of vas deferens
+286900008	Carcinoma of epididymis/spermatic cord (disorder)	Carcinoma of epididymis/spermatic cord
+254909003	Carcinoma of foreskin (disorder)	Carcinoma of foreskin
+254904008	Carcinoma of glans penis (disorder)	Carcinoma of glans penis
+372096000	Carcinoma of male breast (disorder)	Carcinoma of male breast
+372106005	Carcinoma of penis (disorder)	Carcinoma of penis
+254900004	Carcinoma of prostate (disorder)	Carcinoma of prostate
+698017003	Cared for by male head of household (finding)	Cared for by male head of household
+726621009	Caudal appendage deafness syndrome (disorder)	Caudal appendage deafness syndrome
+54770009	Cavernitis of penis (disorder)	Cavernitis of penis
+111416005	Cellulitis of corpus cavernosum (disorder)	Cellulitis of corpus cavernosum
+14812002	Cellulitis of penis (disorder)	Cellulitis of penis
+34830002	Cellulitis of scrotum (disorder)	Cellulitis of scrotum
+111414008	Cellulitis of seminal vesicle (disorder)	Cellulitis of seminal vesicle
+10982004	Cellulitis of spermatic cord (disorder)	Cellulitis of spermatic cord
+81823008	Cellulitis of tunica vaginalis (disorder)	Cellulitis of tunica vaginalis
+15110001	Cellulitis of vas deferens (disorder)	Cellulitis of vas deferens
+236749007	Chlamydial balanitis (disorder)	Chlamydial balanitis
+236767000	Chlamydial epididymitis (disorder)	Chlamydial epididymitis
+236773004	Chlamydial epididymo-orchitis (disorder)	Chlamydial epididymo-orchitis
+236672003	Chlamydial prostatitis (disorder)	Chlamydial prostatitis
+4287008	Chordee (disorder)	Chordee
+735622003	Chronic edema of penis (disorder)	Chronic oedema of penis
+236768005	Chronic epididymitis (disorder)	Chronic epididymitis
+35526001	Chronic gonococcal epididymo-orchitis (disorder)	Chronic gonococcal epididymo-orchitis
+60893000	Chronic gonococcal prostatitis (disorder)	Chronic gonococcal prostatitis
+23975003	Chronic gonococcal seminal vesiculitis (disorder)	Chronic gonococcal seminal vesiculitis
+403465000	Chronic infective balanitis (disorder)	Chronic infective balanitis
+10194007	Chronic orchitis (disorder)	Chronic orchitis
+133731000119108	Chronic pain in male pelvis (finding)	Chronic pain in male pelvis
+426135001	Chronic prostatitis - chronic pelvic pain syndrome (disorder)	Chronic prostatitis - chronic pelvic pain syndrome
+19905009	Chronic prostatitis (disorder)	Chronic prostatitis
+39023007	Chronic ulcer of corpus cavernosum (disorder)	Chronic ulcer of corpus cavernosum
+74046003	Chronic ulcer of penis (disorder)	Chronic ulcer of penis
+234107009	Chylocele (disorder)	Chylocele
+7864001	Chylocele of tunica vaginalis (disorder)	Chylocele of tunica vaginalis
+236744002	Circinate balanitis of Reiter's disease (disorder)	Circinate balanitis of Reiter's disease
+249255000	Circumcised foreskin (finding)	Circumcised foreskin
+240737001	Classical histoplasmosis penile ulceration (disorder)	Classical histoplasmosis penile ulceration
+236820006	Coital failure (disorder)	Coital failure
+236822003	Coital impairment (disorder)	Coital impairment
+262915002	Complete rupture of male urethra (disorder)	Complete rupture of male urethra
+41867009	Complete spermatogenic arrest (finding)	Complete spermatogenic arrest
+66677002	Compulsive overt homosexual state (finding)	Compulsive overt homosexual state
+248090005	Concern about sexual orientation (finding)	Concern about sexual orientation
+402945009	Condylomata lata of penis (disorder)	Condylomata lata of penis
+92952006	Congenital abnormal shape of testis (disorder)	Congenital abnormal shape of testis
+236779000	Congenital abnormality of scrotum (disorder)	Congenital abnormality of scrotum
+371015003	Congenital absence of both testes (disorder)	Congenital absence of both testes
+91882003	Congenital absence of epididymis (disorder)	Congenital absence of epididymis
+73465006	Congenital absence of germinal epithelium of testes (disorder)	Congenital absence of germinal epithelium of testes
+767328004	Congenital absence of left testis (disorder)	Congenital absence of left testis
+59981001	Congenital absence of penis (disorder)	Congenital absence of penis
+51693009	Congenital absence of prostate (disorder)	Congenital absence of prostate
+767329007	Congenital absence of right testis (disorder)	Congenital absence of right testis
+88656003	Congenital absence of spermatic cord (disorder)	Congenital absence of spermatic cord
+274151005	Congenital absence of testis (disorder)	Absent testicle (congenital)
+5286009	Congenital absence of vas deferens (disorder)	Congenital absence of vas deferens
+371122009	Congenital anomaly of endocrine testis (disorder)	Congenital anomaly of endocrine testis
+93001004	Congenital anomaly of epididymis (disorder)	Congenital anomaly of epididymis
+4406004	Congenital anomaly of male genital system (disorder)	Congenital anomaly of male genital system
+428522008	Congenital anomaly of male urogenital tract (disorder)	Congenital anomaly of male urogenital tract
+70318002	Congenital anomaly of penis (disorder)	Congenital anomaly of penis
+82820009	Congenital anomaly of prostate (disorder)	Congenital anomaly of prostate
+83228001	Congenital anomaly of spermatic cord (disorder)	Congenital anomaly of spermatic cord
+55631001	Congenital anomaly of testis (disorder)	Congenital anomaly of testis
+6282000	Congenital anomaly of vas deferens (disorder)	Congenital anomaly of vas deferens
+204907006	Congenital aplasia of scrotum (disorder)	Congenital aplasia of scrotum
+702610009	Congenital aplasia of vas deferens (disorder)	Congenital aplasia of vas deferens
+29345006	Congenital atresia of ejaculatory duct (disorder)	Congenital atresia of ejaculatory duct
+39513007	Congenital atresia of vas deferens (disorder)	Congenital atresia of vas deferens
+275416002	Congenital bilateral aplasia of vas deferens (disorder)	Congenital bilateral aplasia of vas deferens
+253849004	Congenital buried penis (disorder)	Congenital buried penis
+64320007	Congenital chordee (disorder)	Congenital chordee
+236759008	Congenital familial idiopathic priapism (disorder)	Congenital familial idiopathic priapism
+44964000	Congenital fusion of testis (disorder)	Congenital fusion of testis
+82062003	Congenital hydrocele (disorder)	Congenital hydrocele
+93077001	Congenital hypertrophy of testis (disorder)	Congenital hypertrophy of testis
+93252006	Congenital hypoplasia of epididymis (disorder)	Congenital hypoplasia of epididymis
+34911001	Congenital hypoplasia of penis (disorder)	Congenital hypoplasia of penis
+85437001	Congenital hypoplasia of testis (disorder)	Congenital hypoplasia of testis
+93301006	Congenital hypoplasia of vas deferens (disorder)	Congenital hypoplasia of vas deferens
+236805000	Congenital impairment of sperm motility (disorder)	Congenital impairment of sperm motility
+111336005	Congenital lateral curvature of penis (disorder)	Congenital lateral curvature of penis
+236790005	Congenital male infertility (disorder)	Congenital male infertility
+93319002	Congenital malposition of epididymis (disorder)	Congenital malposition of epididymis
+93358007	Congenital malposition of testis (disorder)	Congenital malposition of testis
+93365004	Congenital malposition of vas deferens (disorder)	Congenital malposition of vas deferens
+236807008	Congenital obstructive azoospermia (disorder)	Congenital obstructive azoospermia
+699871003	Congenital penile adhesion (disorder)	Congenital penile adhesion
+713509006	Congenital penile torsion (disorder)	Congenital penile torsion
+312005008	Congenital penoscrotal transposition (disorder)	Congenital penoscrotal transposition
+253854008	Congenital phimosis (disorder)	Congenital phimosis
+236799006	Congenitally impaired spermatogenesis (disorder)	Congenitally impaired spermatogenesis
+28324007	Congestion of prostate (disorder)	Congestion of prostate
+249248002	Constriction in shaft of penis (finding)	Constriction in shaft of penis
+36160007	Contusion of male genital organs (disorder)	Contusion of male genital organs
+283973004	Contusion of male perineum (disorder)	Contusion of male perineum
+14992004	Contusion of penis (disorder)	Contusion of penis
+283928006	Contusion of prostate (disorder)	Contusion of prostate
+23287003	Contusion of scrotum (disorder)	Contusion of scrotum
+283937006	Contusion of seminal vesicle (disorder)	Contusion of seminal vesicle
+53629007	Contusion of testis (disorder)	Contusion of testis
+262918000	Contusion of vas deferens (disorder)	Contusion of vas deferens
+269217002	Contusion, scrotum or testis (disorder)	Contusion, scrotum or testis
+429641000124109	Coronal hypospadias (disorder)	Coronal hypospadias
+198031007	Corpus cavernosum hematoma (disorder)	Corpus cavernosum haematoma
+44741008	Cowperitis (disorder)	Cowperitis
+300498005	Craggy epididymis (finding)	Craggy epididymis
+276388004	Craggy prostate (finding)	Craggy prostate
+274607002	Cremasteric reflex negative (finding)	Cremasteric reflex negative
+274608007	Cremasteric reflex positive (finding)	Cremasteric reflex positive
+402376005	Crohn's disease of penis (disorder)	Crohn's disease of penis
+402377001	Crohn's disease of scrotum (disorder)	Crohn's disease of scrotum
+281585008	Crossed ectopia of testis (disorder)	Crossed ectopia of testis
+269225000	Crush injury, scrotum and testis (disorder)	Crush injury, scrotum and testis
+78508009	Crushing injury of male external genitalia (disorder)	Crushing injury of male external genitalia
+64417000	Crushing injury of penis (disorder)	Crushing injury of penis
+79555006	Crushing injury of scrotum (disorder)	Crushing injury of scrotum
+78198009	Crushing injury of testis (disorder)	Crushing injury of testis
+43077002	Cyst of epididymis (disorder)	Epididymal cyst
+135141000119104	Cyst of male tunica albuginea testis (disorder)	Cyst of male tunica albuginea testis
+409658007	Cyst of prostate (disorder)	Prostatic cyst
+109862002	Cyst of rete testis (disorder)	Cyst of rete testis
+767754009	Cyst of testis (disorder)	Cyst of testis
+236774005	Cyst of testis and epididymis (disorder)	Cyst of testis and epididymis
+460951001	Cystic dilatation of duct of bulbourethral gland (disorder)	Cystic dilatation of duct of bulbourethral gland
+109560004	Cystic testicular dysplasia (disorder)	Cystic testicular dysplasia
+236814005	Cytotoxic drug-induced hypospermatogenesis (disorder)	Cytotoxic drug-induced hypospermatogenesis
+254770007	Dartoic myoma (disorder)	Dartoic myoma
+416579007	Decreased ejaculate volume (finding)	Decreased ejaculate volume
+88277007	Deep third degree burn of male genitalia (disorder)	Deep full thickness burn of male genitalia
+386675004	Defective ejaculation (finding)	Defective ejaculation
+38825009	Deficiency of testosterone biosynthesis (disorder)	Deficiency of testosterone biosynthesis
+236755002	Deformity of erection (disorder)	Deformity of erection
+210427000	Degloving injury penis (disorder)	Degloving injury penis
+210432004	Degloving injury scrotum (disorder)	Degloving injury scrotum
+248774001	Delayed erection (finding)	Delayed erection
+124733001	Delayed male climacteric (finding)	Delayed male climacteric
+737171005	Dermatitis of male genitalia (disorder)	Dermatitis of male genitalia
+42198007	Deviation of penis (disorder)	Deviation of penis
+423316001	Difficulty managing andropause (finding)	Difficulty managing andropause
+448213004	Diffuse non-Hodgkin's lymphoma of prostate (disorder)	Diffuse non-Hodgkin's lymphoma of prostate
+448465000	Diffuse non-Hodgkin's lymphoma of testis (disorder)	Diffuse non-Hodgkin's lymphoma of testis
+253851000	Diphallus (disorder)	Diphallus
+186347006	Diphtheria of penis (disorder)	Diphtheria of penis
+128543007	Disorder of corpus cavernosum of penis (disorder)	Disorder of corpus cavernosum of penis
+386790008	Disorder of ejaculation (disorder)	Disorder of ejaculation
+73820008	Disorder of endocrine testis (disorder)	Testicular dysfunction
+118657002	Disorder of epididymis (disorder)	Disorder of epididymis
+236731007	Disorder of implanted penile prosthesis (disorder)	Disorder of implanted penile prosthesis
+64557000	Disorder of male genital organ (disorder)	Disorder of male genital organ
+700081008	Disorder of male perineum (disorder)	Disorder of male perineum
+363194005	Disorder of male reproductive system (disorder)	Disorder of male reproductive system
+33958003	Disorder of penis (disorder)	Disorder of penis
+30281009	Disorder of prostate (disorder)	Disorder of prostate
+271974007	Disorder of prosthetic reconstruction of vas deferens (disorder)	Disorder of prosthetic reconstruction of vas deferens
+49701002	Disorder of scrotum (disorder)	Disorder of scrotum
+86285007	Disorder of seminal vesicle (disorder)	Disorder of seminal vesicle
+703863008	Disorder of skin of penis (disorder)	Disorder of skin of penis
+703864002	Disorder of skin of scrotum (disorder)	Disorder of skin of scrotum
+118658007	Disorder of spermatic cord (disorder)	Disorder of spermatic cord
+73631002	Disorder of testicular differentiation AND/OR development (disorder)	Disorder of testicular differentiation AND/OR development
+236727001	Disorder of testicular prosthesis (disorder)	Disorder of testicular prosthesis
+64910008	Disorder of testis (disorder)	Disorder of testis
+236763001	Disorder of testis and epididymis (disorder)	Disorder of testis and epididymis
+30908009	Disorder of vas deferens (disorder)	Disorder of vas deferens
+236734004	Displacement of penile prosthesis (disorder)	Displacement of penile prosthesis
+702434007	Distal penile hypospadias (disorder)	Distal penile hypospadias
+236815006	Drug abuse-induced hypospermatogenesis (disorder)	Drug abuse-induced hypospermatogenesis
+237449003	Drug-induced gynecomastia (disorder)	Drug-induced gynaecomastia
+236751006	Drug-induced impotence (disorder)	Drug-induced impotence
+198075006	Dyspareunia due to non-psychogenic cause in the male (finding)	Dyspareunia due to non-psychogenic cause in the male
+445068007	Dysplasia of prostate (disorder)	Dysplasia of prostate
+445390001	Dysplasia of testis (disorder)	Dysplasia of testis
+12653009	Dysspermatogenic sterility (finding)	Dysspermatogenic sterility
+134891000119104	Dystrophic scrotal calcinosis (disorder)	Dystrophic scrotal calcinosis
+50911000	Ectopic testis (disorder)	Ectopic testis
+737172003	Eczema of male genitalia (disorder)	Eczema of male genitalia
+198035003	Edema of penis (disorder)	Oedema of penis
+300522004	Edema of prepuce (finding)	Oedema of prepuce
+88995000	Edema of scrotum (disorder)	Oedema of scrotum
+52813007	Ego-dystonic sexual orientation (finding)	Ego-dystonic sexual orientation
+85745007	Ego-syntonic sexual orientation (finding)	Ego-syntonic sexual orientation
+248787007	Ejaculation without an erection (finding)	Ejaculation without an erection
+248786003	Ejaculation without arousal (finding)	Ejaculation without arousal
+248788002	Ejaculation without orgasm (finding)	Ejaculation without orgasm
+52303006	Embolism of corpus cavernosum (disorder)	Embolism of corpus cavernosum
+88527005	Embolism of penis (disorder)	Embolism of penis
+767641005	Embryonic cyst of male genital structure (disorder)	Embryonic cyst of male genital structure
+81059003	Emission (finding)	Emission
+84475006	Encysted hydrocele (disorder)	Encysted hydrocele
+197980002	Encysted hydrocele of spermatic cord (disorder)	Encysted hydrocele of spermatic cord
+236752004	Endocrine impotence (disorder)	Endocrine impotence
+278060005	Endometrioid carcinoma of prostate (disorder)	Endometrioid carcinoma of prostate
+109861009	Endometriosis of the spermatic cord following estrogen therapy (disorder)	Endometriosis of the spermatic cord following oestrogen therapy
+16333002	Epidermal burn of male genitalia (disorder)	Epidermal burn of male genitalia
+445909003	Epidermoid cyst of skin of scrotum (disorder)	Epidermoid cyst of skin of scrotum
+279021003	Epididymal pain (finding)	Epididymal pain
+300883004	Epididymal swelling (finding)	Epididymal swelling
+300495008	Epididymis absent (finding)	Epididymis absent
+300497000	Epididymis enlarged (finding)	Epididymis enlarged
+249243006	Epididymis finding (finding)	Epididymis finding
+300494007	Epididymis present (finding)	Epididymis present
+300501005	Epididymis tender (finding)	Epididymis tender
+31070006	Epididymitis (disorder)	Epididymitis
+197994001	Epididymitis associated with another disorder (disorder)	Epididymitis associated with another disorder
+72550000	Epididymitis with abscess (disorder)	Epididymitis with abscess
+24712006	Epididymitis without abscess (disorder)	Epididymitis without abscess
+198002008	Epididymo-orchitis associated with another disorder (disorder)	Epididymo-orchitis associated with another disorder
+27141002	Epididymo-orchitis with abscess (disorder)	Epididymo-orchitis with abscess
+57731009	Epididymo-orchitis without abscess (disorder)	Epididymo-orchitis without abscess
+406477003	Epispadias, male (disorder)	Epispadias, male
+248767006	Erection finding (finding)	Erection finding
+248778003	Erection too big (finding)	Erection too big
+248770005	Erection too easily aroused (finding)	Erection too easily aroused
+248777008	Erection too strong (finding)	Erection too strong
+248769009	Erection when not aroused (finding)	Erection when not aroused
+248771009	Erection with full bladder (finding)	Erection with full bladder
+248793004	Erection without orgasm (finding)	Erection without orgasm
+255483000	Erosive balanitis (disorder)	Erosive balanitis
+236676000	Escape of urine from prostate (disorder)	Escape of urine from prostate
+267403002	Eunuchism (disorder)	Eunuchism
+2041006	Eunuchoid gigantism (disorder)	Eunuchoid gigantism
+78331000119108	Excess foreskin after circumcision (finding)	Excess foreskin after circumcision
+248775000	Excessive erection (finding)	Excessive erection
+249272007	Excessive smegma (finding)	Excessive smegma
+428092007	Extravaginal torsion of spermatic cord (disorder)	Extravaginal torsion of spermatic cord
+236677009	Extravasation of urine from prostate (disorder)	Extravasation of urine from prostate
+236733005	Extrusion of penile prosthesis (disorder)	Extrusion of penile prosthesis
+236821005	Failure of penetration (disorder)	Failure of penetration
+414187003	Failure to conceive due to infertility of male partner (finding)	Failure to conceive due to infertility of male partner
+716744000	Familial hypospadias of penis (disorder)	Familial penile hypospadias
+725295005	Familial male-limited precocious puberty (disorder)	Familial male-limited precocious puberty
+715412008	Familial malignant neoplasm of prostate (disorder)	Familial malignant neoplasm of prostate
+248780009	Fear of ejaculation (finding)	Fear of ejaculation
+32951002	Feminized male (finding)	Feminised male
+81555000	Fibroadenoma of prostate (disorder)	Fibroadenoma of prostate
+47014000	Fibroma of prostate (disorder)	Fibroma of prostate
+48151006	Fibromatous periorchitis (disorder)	Fibromatous periorchitis
+32608004	Fibrosis of corpus cavernosum (disorder)	Fibrosis of corpus cavernosum
+39927006	Fibrosis of penis (disorder)	Fibrosis of penis
+63692006	Fibrosis of scrotum (disorder)	Fibrosis of scrotum
+22512009	Fibrosis of seminal vesicle (disorder)	Fibrosis of seminal vesicle
+29935003	Fibrosis of spermatic cord (disorder)	Fibrosis of spermatic cord
+60524008	Fibrosis of testis (disorder)	Fibrosis of testis
+48549003	Fibrosis of tunica vaginalis (disorder)	Fibrosis of tunica vaginalis
+89429001	Fibrosis of vas deferens (disorder)	Fibrosis of vas deferens
+300496009	Finding of appearance of epididymis (finding)	Finding of appearance of epididymis
+300512005	Finding of appearance of penis (finding)	Finding of appearance of penis
+300482003	Finding of appearance of testes (finding)	Finding of appearance of testes
+300484002	Finding of consistency of testes (finding)	Finding of consistency of testes
+300526001	Finding of ejaculation (finding)	Finding of ejaculation
+365784007	Finding of male sex hormones - serum level (finding)	Male sex hormones - serum level - finding
+302182000	Finding of measures of testes (finding)	Finding of measures of testes
+366294008	Finding of odor of smegma (finding)	Finding of odour of smegma
+366291000	Finding of penile vascular function (finding)	Penile vascular function - finding
+366284003	Finding of position of testicle (finding)	Position of testicle - finding
+366295009	Finding of quantity of smegma (finding)	Finding of quantity of smegma
+366289008	Finding of retraction of foreskin (finding)	Retraction of foreskin - finding
+365429000	Finding of semen fertility (finding)	Semen fertility - finding
+365427003	Finding of semen measurement (finding)	Semen measurement - finding
+365428008	Finding of semen volume (finding)	Semen volume - finding
+300500006	Finding of sensation of epididymis (finding)	Finding of sensation of epididymis
+300534007	Finding of sensation of prostate (finding)	Finding of sensation of prostate
+300488004	Finding of sensation of testes (finding)	Finding of sensation of testes
+365956009	Finding of sexual orientation (finding)	Finding of sexual orientation
+366287005	Finding of shape of penis (finding)	Shape of penis - finding
+366288000	Finding of size of glans penis (finding)	Size of glans penis - finding
+366285002	Finding of size of penis (finding)	Size of penis - finding
+366292007	Finding of size of prostate (finding)	Size of prostate - finding
+366283009	Finding of size of scrotum (finding)	Size of scrotum - finding
+302032008	Finding of size of testicle (finding)	Finding of size of testicle
+249267003	Finding of smegma (finding)	Finding of smegma
+365425006	Finding of sperm measurement (finding)	Sperm measurement - finding
+365423004	Finding of sperm morphology (finding)	Sperm morphology - finding
+365424005	Finding of sperm motility (finding)	Sperm motility - finding
+365426007	Finding of sperm number (finding)	Sperm number - finding
+365401003	Finding of Tanner boys genital development (finding)	Tanner boys genital development - finding
+300504002	Finding of vas deferens (finding)	Finding of vas deferens
+366290004	Finding related to ability to get an erection (finding)	Finding related to ability to get an erection
+276386000	Firm prostate (finding)	Firm prostate
+429973000	Fissure of prepuce (finding)	Fissure of prepuce
+300514006	Fistula of penis (finding)	Fistula of penis
+45014001	Fistula of prostate (disorder)	Fistula of prostate
+249265006	Fixed, retracted foreskin (finding)	Fixed, retracted foreskin
+448217003	Follicular non-Hodgkin's lymphoma of prostate (disorder)	Follicular non-Hodgkin's lymphoma of prostate
+449418000	Follicular non-Hodgkin's lymphoma of testis (disorder)	Follicular non-Hodgkin's lymphoma of testis
+735082004	Fordyce angiokeratoma of scrotum (disorder)	Fordyce angiokeratoma of scrotum
+403370006	Fordyce spots of penis (disorder)	Fordyce spots of penis
+447066005	Foreign body granuloma of penis (disorder)	Foreign body granuloma of penis
+262616003	Foreign body in male genital organs and perineum (disorder)	Foreign body in male genital organs and perineum
+262621000	Foreign body in male perineum (disorder)	Foreign body in male perineum
+262614000	Foreign body in male urethra (disorder)	Foreign body in male urethra
+277845008	Foreign body in membranous urethra (disorder)	Foreign body in membranous urethra
+275415003	Foreign body in penile urethra (disorder)	Foreign body in penile urethra
+73830004	Foreign body in penis (disorder)	Foreign body in penis
+262617007	Foreign body in prostate (disorder)	Foreign body in prostate
+262620004	Foreign body in scrotum (disorder)	Foreign body in scrotum
+283941005	Foreign body in seminal vesicle (disorder)	Foreign body in seminal vesicle
+262619005	Foreign body in testis (disorder)	Foreign body in testis
+262618002	Foreign body in vas deferens (disorder)	Foreign body in vas deferens
+443415006	Foreign body under foreskin (disorder)	Foreign body under foreskin
+300519001	Foreskin absent (finding)	Foreskin absent
+249254001	Foreskin deficient (finding)	Foreskin deficient
+249262009	Foreskin does not retract (finding)	Foreskin does not retract
+249253007	Foreskin finding (finding)	Foreskin finding
+300518009	Foreskin present (finding)	Foreskin present
+249261002	Foreskin retracts (finding)	Foreskin retracts
+398318005	Fournier's gangrene (disorder)	Fournier's gangrene
+397900003	Fournier's gangrene of penis (disorder)	Fournier's gangrene of penis
+236782005	Fournier's gangrene of scrotum (disorder)	Fournier's gangrene of scrotum
+373596001	Fracture of erect penis (disorder)	Fracture of erect penis
+66554005	Full thickness burn of male genitalia (disorder)	Full thickness burn of male genitalia
+236750007	Functional disorder of penis (disorder)	Functional disorder of penis
+19603004	Gangrene of scrotum (disorder)	Gangrene of scrotum
+397889003	Gangrenous balanitis (disorder)	Gangrenous balanitis
+251806008	Genitalia Tanner Stage 1 (finding)	Genitalia Tanner Stage 1
+251807004	Genitalia Tanner Stage 2 (finding)	Genitalia Tanner Stage 2
+251808009	Genitalia Tanner Stage 3 (finding)	Genitalia Tanner Stage 3
+251809001	Genitalia Tanner Stage 4 (finding)	Genitalia Tanner Stage 4
+251810006	Genitalia Tanner Stage 5 (finding)	Genitalia Tanner Stage 5
+713577007	Germ cell tumor of testis (disorder)	Germ cell tumour of testis
+249250005	Glans penis finding (finding)	Glans penis finding
+429631000124104	Glanular hypospadias (disorder)	Glanular hypospadias
+236818008	Globozoospermia (disorder)	Globozoospermia
+1155911000168100	Gonadoblastoma of testis (disorder)	Testicular gonadoblastoma
+240576002	Gonococcal Cowperitis (disorder)	Gonococcal Cowperitis
+236766009	Gonococcal epididymitis (disorder)	Gonococcal epididymitis
+236772009	Gonococcal epididymo-orchitis (disorder)	Gonococcal epididymo-orchitis
+238419002	Gonococcal lymphangitis of penis (disorder)	Gonococcal lymphangitis of penis
+240580007	Gonococcal penile fistula (disorder)	Gonococcal penile fistula
+197967000	Gonococcal prostatitis (disorder)	Gonococcal prostatitis
+301990003	Gonococcal seminal vesiculitis (disorder)	Gonococcal seminal vesiculitis
+240575003	Gonococcal Tysonitis (disorder)	Gonococcal Tysonitis
+61500009	Granulomatous prostatitis (disorder)	Granulomatous prostatitis
+4754008	Gynecomastia (disorder)	Gynaecomastia
+276387009	Hard prostate (finding)	Hard prostate
+300486000	Hard testes (finding)	Hard testes
+283974005	Hematoma of male perineum (disorder)	Haematoma of male perineum
+283948004	Hematoma of penis (disorder)	Haematoma of penis
+446596003	Hematoma of prepuce (disorder)	Haematoma of prepuce
+283929003	Hematoma of prostate (disorder)	Haematoma of prostate
+89966002	Hematoma of scrotum (disorder)	Haematoma of scrotum
+283938001	Hematoma of seminal vesicle (disorder)	Haematoma of seminal vesicle
+5223003	Hematoma of spermatic cord (disorder)	Haematoma of spermatic cord
+283944002	Hematoma of testis (disorder)	Haematoma of testis
+25756004	Hematoma of tunica vaginalis (disorder)	Haematoma of tunica vaginalis
+89993004	Hematoma of vas deferens (disorder)	Haematoma of vas deferens
+93475002	Hemorrhage into epididymis (disorder)	Haemorrhage into epididymis
+69452005	Hemorrhage of corpus cavernosum (disorder)	Haemorrhage of corpus cavernosum
+50573001	Hemorrhage of penis (disorder)	Haemorrhage of penis
+44843000	Hemorrhage of prostate (disorder)	Haemorrhage of prostate
+62182006	Hemorrhage of scrotum (disorder)	Haemorrhage of scrotum
+8465005	Hemorrhage of seminal vesicle (disorder)	Haemorrhage of seminal vesicle
+33878005	Hemorrhage of spermatic cord (disorder)	Haemorrhage of spermatic cord
+77708008	Hemorrhage of testis (disorder)	Haemorrhage of testis
+55898008	Hemorrhage of tunica vaginalis (disorder)	Haemorrhage of tunica vaginalis
+53839004	Hemorrhage of vas deferens (disorder)	Haemorrhage of vas deferens
+34615008	Hemospermia (finding)	Haemospermia
+446026002	Hernia hydrocele complex (disorder)	Hernia hydrocele complex
+10227000	Herpetic infection of penis (disorder)	Herpetic infection of penis
+20430005	Heterosexual (finding)	Heterosexual
+446711009	High grade prostatic intraepithelial neoplasia (disorder)	High grade prostatic intraepithelial neoplasia
+439030002	High riding prostate (finding)	High riding prostate
+238916002	Hirsuties papillaris penis (disorder)	Hirsuties papillaris penis
+38628009	Homosexual (finding)	Homosexual
+105434009	Homosexual marriage, male (finding)	Homosexual marriage, male
+249257008	Hooded foreskin (finding)	Hooded foreskin
+204933003	Hooded penis (disorder)	Hooded penis
+427492003	Hormone refractory prostate cancer (disorder)	Hormone refractory prostate cancer
+722103009	Hormone sensitive prostate cancer (disorder)	Hormone sensitive prostate cancer
+237450003	Human chorionic gonadotrophin-induced gynecomastia (disorder)	HCG-induced gynaecomastia
+204922001	Hydatid cyst of Morgagni - male (disorder)	Hydatid cyst of Morgagni - male
+37268004	Hydrocele of spermatic cord (disorder)	Hydrocele of spermatic cord
+26614003	Hydrocele of testis (disorder)	Hydrocele of testis
+70660007	Hydrocele of tunica vaginalis (disorder)	Hydrocele of tunica vaginalis
+433234005	Hyperplasia of prostate (disorder)	Hyperplasia of prostate
+60313005	Hypertrophy of corpus cavernosum (disorder)	Hypertrophy of corpus cavernosum
+441797008	Hypertrophy of penis (disorder)	Hypertrophy of penis
+431005	Hypertrophy of scrotum (disorder)	Hypertrophy of scrotum
+76840008	Hypertrophy of seminal vesicle (disorder)	Hypertrophy of seminal vesicle
+42051002	Hypertrophy of spermatic cord (disorder)	Hypertrophy of spermatic cord
+32121007	Hypertrophy of testis (disorder)	Hypertrophy of testis
+70783003	Hypertrophy of tunica vaginalis (disorder)	Hypertrophy of tunica vaginalis
+34687008	Hypertrophy of vas deferens (disorder)	Hypertrophy of vas deferens
+236796004	Hypogonadism with prune belly syndrome (disorder)	Hypogonadism with prune belly syndrome
+204912007	Hypoplasia of scrotum (disorder)	Hypoplasia of scrotum
+204891000	Hypospadias, balanic (disorder)	Hypospadias, balanic
+204888000	Hypospadias, penile (disorder)	Hypospadias, penile
+204889008	Hypospadias, penoscrotal (disorder)	Hypospadias, penoscrotal
+713919009	Hypospermatogenesis (finding)	Hypospermatogenesis
+78341000119104	Iatrogenic phimosis (finding)	Iatrogenic phimosis
+66957007	Iatrogenic testicular hypofunction (disorder)	Iatrogenic testicular hypofunction
+431498001	Idiopathic gynecomastia (disorder)	Idiopathic gynaecomastia
+236784006	Idiopathic scrotal edema (disorder)	Idiopathic scrotal oedema
+198036002	Impotence of organic origin (disorder)	Impotence of organic origin
+248768001	Inappropriate erection (finding)	Inappropriate erection
+52749004	Incomplete spermatogenic arrest (finding)	Incomplete spermatogenic arrest
+41179007	Increased erection of penis (finding)	Increased erection of penis
+129634000	Induced male hypogonadism syndrome (disorder)	Induced male hypogonadism syndrome
+124731004	Induced spermatogenic arrest (finding)	Induced spermatogenic arrest
+1335005	Induratio penis plastica (disorder)	Induratio penis plastica
+236028000	Infantile hydrocele (disorder)	Infantile hydrocele
+22035000	Infarction of prostate (disorder)	Infarction of prostate
+33793000	Infarction of testis (disorder)	Infarction of testis
+11666007	Infected hydrocele (disorder)	Infected hydrocele
+405246007	Infection and fibrosis of spermatic cord remnant (disorder)	Infection and fibrosis of spermatic cord remnant
+446471004	Infection of epididymis caused by Chlamydia trachomatis (disorder)	Infection of epididymis caused by Chlamydia trachomatis
+309090002	Infection of penis (disorder)	Infection of penis
+371413003	Infection of scrotum (disorder)	Infection of scrotum
+236786008	Infection of spermatic cord (disorder)	Infection of spermatic cord
+312222003	Infection of testis and epididymis (disorder)	Infection of testis and epididymis
+446902002	Infection of testis caused by Chlamydia trachomatis (disorder)	Infection of testis caused by Chlamydia trachomatis
+309091003	Infective balanitis (disorder)	Infective balanitis
+402705006	Infective dermatosis of male genitalia (disorder)	Infective dermatosis of male genitalia
+312224002	Infective epididymitis (disorder)	Infective epididymitis
+312220006	Infective epididymo-orchitis (disorder)	Infective epididymo-orchitis
+312223008	Infective orchitis (disorder)	Infective orchitis
+4107000	Infertile male syndrome (disorder)	Infertile male syndrome
+236806004	Infertility associated with multi-tailed spermatozoa and excessive deoxyribonucleic acid (disorder)	Infertility associated with multi-tailed spermatozoa and excessive DNA
+359559003	Infertility due to azoospermia (disorder)	Infertility due to azoospermia
+89921006	Infertility due to complete spermatogenic arrest (disorder)	Infertility due to complete spermatogenic arrest
+84245004	Infertility due to extratesticular cause (disorder)	Infertility due to extratesticular cause
+21071002	Infertility due to germinal cell aplasia (finding)	Infertility due to germinal cell aplasia
+31356004	Infertility due to germinal cell desquamation (disorder)	Infertility due to germinal cell desquamation
+72746005	Infertility due to incomplete spermatogenic arrest (disorder)	Infertility due to incomplete spermatogenic arrest
+85414007	Infertility due to obstruction of efferent ducts (disorder)	Infertility due to obstruction of efferent ducts
+71349004	Infertility due to oligospermia (disorder)	Infertility due to oligospermia
+414494005	Infertility due to testicular hypoplasia (disorder)	Infertility due to testicular hypoplasia
+236781003	Inflammation of scrotum (disorder)	Inflammation of scrotum
+737173008	Inflammation of spermatic cord (disorder)	Inflammation of spermatic cord
+236765008	Inflammation of testis and epididymis (disorder)	Inflammation of testis and epididymis
+737174002	Inflammation of tunica vaginalis (disorder)	Inflammation of tunica vaginalis
+737175001	Inflammation of vas deferens (disorder)	Inflammation of vas deferens
+128478005	Inflammatory disorder of male genital organ (disorder)	Inflammatory disorder of male genital organ
+371163003	Inflammatory disorder of penis (disorder)	Inflammatory disorder of penis
+366563009	Inflammatory testicular mass (disorder)	Inflammatory testicular mass
+81903006	Inhibited male orgasm (disorder)	Inhibited male orgasm
+43566003	Injury of male external genital organs (disorder)	Injury of male external genital organs
+262917005	Injury of male genital organ (disorder)	Injury of male genital organ
+286555004	Injury of male perineum (disorder)	Injury of male perineum
+262912004	Injury of male urethra (disorder)	Injury of male urethra
+110015006	Injury of penis (disorder)	Injury of penis
+125640003	Injury of prostate (disorder)	Injury of prostate
+210243005	Injury of prostate with open wound into abdominal cavity (disorder)	Injury of prostate with open wound into abdominal cavity
+1419004	Injury of prostate without open wound into abdominal cavity (disorder)	Injury of prostate without open wound into abdominal cavity
+282782006	Injury of scrotum (disorder)	Injury of scrotum
+125641004	Injury of seminal vesicle (disorder)	Injury of seminal vesicle
+210244004	Injury of seminal vesicle with open wound into abdominal cavity (disorder)	Injury of seminal vesicle with open wound into abdominal cavity
+86144007	Injury of seminal vesicle without open wound into abdominal cavity (disorder)	Injury of seminal vesicle without open wound into abdominal cavity
+285832001	Injury of spermatic cord (disorder)	Injury of spermatic cord
+262921003	Injury of testis (disorder)	Injury of testis
+125642006	Injury of vas deferens (disorder)	Injury of vas deferens
+210245003	Injury of vas deferens with open wound into abdominal cavity (disorder)	Injury of vas deferens with open wound into abdominal cavity
+76382000	Injury of vas deferens without open injury to abdominal cavity (disorder)	Injury of vas deferens without open injury to abdominal cavity
+211113006	Insect bite, nonvenomous, of penis (disorder)	Insect bite, nonvenomous, of penis
+269196004	Insect bite, nonvenomous, of scrotum and testis (disorder)	Insect bite, nonvenomous, of scrotum and testis
+269197008	Insect bite, nonvenomous, of scrotum and/or testis, infected (disorder)	Insect bite, nonvenomous, of scrotum and/or testis, infected
+715628009	Intellectual disability, truncal obesity, retinal dystrophy and micropenis syndrome (disorder)	MORM syndrome
+304544003	Intermittent torsion of testis (disorder)	Intermittent torsion of testis
+427913003	Intravaginal torsion of spermatic cord (disorder)	Intravaginal torsion of spermatic cord
+403463007	Irritant balanitis (disorder)	Irritant balanitis
+371584001	Irritation of penis (finding)	Irritation of penis
+441575009	Ischemic priapism (disorder)	Ischaemic priapism
+205698004	Klinefelter's syndrome - male with 46 XX karyotype (disorder)	Klinefelter's syndrome - male with 46 XX karyotype
+285399003	Laceration of foreskin (disorder)	Laceration of foreskin
+283975006	Laceration of male perineum (disorder)	Laceration of male perineum
+283949007	Laceration of penis (disorder)	Laceration of penis
+283930008	Laceration of prostate (disorder)	Laceration of prostate
+283954003	Laceration of scrotum (disorder)	Laceration of scrotum
+283939009	Laceration of seminal vesicle (disorder)	Laceration of seminal vesicle
+285398006	Laceration of skin of penis (disorder)	Laceration of skin of penis
+283945001	Laceration of testis (disorder)	Laceration of testis
+262919008	Laceration of vas deferens (disorder)	Laceration of vas deferens
+249271000	Lack of smegma (finding)	Lack of smegma
+300516008	Large glans penis (finding)	Large glans penis
+88673001	Large penis (disorder)	Large penis
+249607009	Large prostate (finding)	Enlarged prostate
+276331001	Large scrotum (finding)	Large scrotum
+276412008	Large testicle (finding)	Large testicle
+15405008	Late ejaculation (finding)	Late ejaculation
+43311000	Latent homosexual state (finding)	Latent homosexual state
+300513000	Lesion of penis (finding)	Lesion of penis
+300520007	Lesion of prepuce (finding)	Lesion of prepuce
+300532006	Lesion of prostate (finding)	Lesion of prostate
+300492006	Lesion of testis (finding)	Lesion of testis
+95591004	Leukoplakia of male genital organs (disorder)	Leucoplakia of male genital organs
+3323003	Leukoplakia of penis (disorder)	Leucoplakia of penis
+56212008	Leydig cell agenesis (disorder)	Leydig cell agenesis
+82560004	Leydig cell failure in adult (disorder)	Leydig cell failure in adult
+733652008	Leydig cell hyperplasia of testis (disorder)	Leydig cell hyperplasia of testis
+67871000119105	Leydig cell neoplasm of testis (disorder)	Leydig cell neoplasm of testis
+238671003	Lichen planus of glans penis (disorder)	Lichen planus of glans penis
+238670002	Lichen planus of penis (disorder)	Lichen planus of penis
+402714001	Lichen sclerosus of male genitalia (disorder)	Lichen sclerosus of male genitalia
+700082001	Lichen sclerosus of penis (disorder)	Lichen sclerosus of penis
+403564004	Lichen sclerosus of penis, childhood form (disorder)	Lichen sclerosus of penis, childhood form
+403467008	Lichen sclerosus-associated penile intraepithelial neoplasia (disorder)	Lichen sclerosus-associated penile intraepithelial neoplasia
+724465009	Lichen simplex of male genitalia (disorder)	Lichen simplex of male genitalia
+735633000	Lifelong generalized delayed ejaculation (finding)	Lifelong generalised delayed ejaculation
+735629007	Lifelong generalized early ejaculation (finding)	Lifelong generalised early ejaculation
+735634006	Lifelong situational delayed ejaculation (finding)	Lifelong situational delayed ejaculation
+735630002	Lifelong situational early ejaculation (finding)	Lifelong situational early ejaculation
+93162007	Lipoma of spermatic cord (disorder)	Lipoma of spermatic cord
+314969001	Local recurrence of malignant tumor of prostate (disorder)	Local recurrence of malignant tumour of prostate
+249611003	Loss of median groove of prostate (finding)	Loss of median groove of prostate
+446710005	Low grade prostatic intraepithelial neoplasia (disorder)	Low grade prostatic intraepithelial neoplasia
+403387008	Lymphedema of penis (disorder)	Lymphoedema of penis
+427930001	Lymphedema of scrotum (disorder)	Lymphoedema of scrotum
+253845005	Maldescent of testis, bilateral (disorder)	Maldescent of testis, bilateral
+248153007	Male (finding)	Male
+236691003	Male accessory gland infection (disorder)	Male accessory gland infection
+61846002	Male adolescent aberrant sex behavior (finding)	Male adolescent aberrant sex behaviour
+275831001	Male barrier method (finding)	Male barrier method
+41982003	Male climacteric (finding)	Male climacteric
+312447004	Male coital disorder (disorder)	Male coital disorder
+145071000119106	Male cystocele (disorder)	Male cystocoele
+102341000119103	Male cystourethrocele (disorder)	Male cystourethrocele
+247536009	Male distribution of body hair (finding)	Male distribution of body hair
+248304000	Male distribution of fat (finding)	Male distribution of fat
+367141000119107	Male erectile disorder due to corporovenous occlusion (disorder)	Male erectile disorder due to corporovenous occlusion
+247537000	Male escutcheon (finding)	Male escutcheon
+109818006	Male frozen pelvis (disorder)	Male frozen pelvis
+274112000	Male genital abscess (disorder)	Male genital abscess
+312195001	Male genital infection (disorder)	Male genital infection
+198056001	Male genital organ disorder associated with another disorder (disorder)	Male genital organ disorder associated with another disorder
+198068005	Male genital organ edema (disorder)	Oedema of male genital organs
+198064007	Male genital organ stricture (disorder)	Male genital organ stricture
+198057005	Male genital organ vascular diseases (disorder)	Male genital organ vascular diseases
+249230006	Male genitalia finding (finding)	Male genitalia finding
+66259004	Male hematocele (disorder)	Male haematocele
+76102007	Male homosexual (finding)	Male homosexual
+141631000119100	Male hot flash (disorder)	Male hot flash
+37083002	Male hypererotism (finding)	Male hypererotism
+722459008	Male hypergonadotropic hypogonadism, intellectual disability, skeletal anomaly syndrome (disorder)	Male hypergonadotropic hypogonadism, intellectual disability, skeletal anomaly syndrome
+99651000119107	Male hypertrophic prepuce (finding)	Male hypertrophic prepuce
+48723006	Male hypogonadism (disorder)	Male hypogonadism
+2904007	Male infertility (disorder)	Male infertility
+414643008	Male infertility due to antisperm antibody (disorder)	Male infertility due to antisperm antibody
+707418001	Male infertility due to cystic fibrosis (disorder)	Male infertility due to cystic fibrosis
+236791009	Male infertility of chromosomal origin (disorder)	Male infertility of chromosomal origin
+236794001	Male infertility of developmental origin (disorder)	Male infertility of developmental origin
+236792002	Male infertility of genetic origin (disorder)	Male infertility of genetic origin
+765275003	Male infertility with azoospermia due to single gene mutation (disorder)	Male infertility with azoospermia due to single gene mutation
+765282004	Male infertility with oligozoospermia due to single gene mutation (disorder)	Male infertility with oligozoospermia due to single gene mutation
+764096006	Male infertility with teratozoospermia due to single gene mutation (disorder)	Male infertility with teratozoospermia due to single gene mutation
+72215007	Male juvenile homoerotism (finding)	Male juvenile homoerotism
+82935009	Male mature sexual state (finding)	Male mature sexual state
+87872006	Male pattern alopecia (disorder)	Male pattern alopecia
+197180003	Male pelvic abscess (disorder)	Male pelvic abscess
+197200005	Male pelvic adhesions (disorder)	Male pelvic adhesions
+22317004	Male pelvic peritonitis (disorder)	Male pelvic peritonitis
+248102006	Male prostitution (finding)	Male prostitution
+111332007	Male pseudohermaphroditism (disorder)	Male pseudohermaphroditism
+738771004	Male pseudohermaphroditism due to 5-alpha-reductase deficiency (disorder)	Pseudovaginal perineoscrotal hypospadias
+106106004	Male reproductive finding (finding)	Male reproductive finding
+442241007	Male sex hormones borderline high (finding)	Male sex hormones borderline high
+442317007	Male sex hormones borderline low (finding)	Male sex hormones borderline low
+166455007	Male sex hormones low (finding)	Male sex hormones low
+166454006	Male sex hormones normal (finding)	Male sex hormones normal
+166467009	Male sex hormones raised (finding)	Male sex hormones raised
+118219009	Male sexual finding (finding)	Male sexual finding
+49408009	Male sterility (finding)	Male sterility
+699051006	Male subcoronal hypospadias (disorder)	Male subcoronal hypospadias
+714186001	Male to female transsexual person on hormone therapy (finding)	Male to female transsexual person on hormone therapy
+444620007	Male urinary stress incontinence (finding)	Male urinary stress incontinence
+254286001	Male with sex chromosome mosaicism (disorder)	Male with sex chromosome mosaicism
+254285002	Male with structurally abnormal sex chromosome (disorder)	Male with structurally abnormal sex chromosome
+407376001	Male-to-female transsexual (finding)	Male-to-female transsexual
+236761004	Malfunction of penile prosthesis (disorder)	Malfunction of penile prosthesis
+713646001	Malignant germ cell tumor of testis (disorder)	Malignant germ cell tumour of testis
+702405001	Malignant granulosa cell tumor of testis (disorder)	Malignant granulosa cell tumour of testis
+278055006	Malignant Leydig cell tumor of testis (disorder)	Malignant Leydig cell tumour of testis
+277664004	Malignant lymphoma of testis (disorder)	Malignant lymphoma of testis
+448298007	Malignant melanoma of skin of penis (disorder)	Malignant melanoma of skin of penis
+448273006	Malignant melanoma of skin of scrotum (disorder)	Malignant melanoma of skin of scrotum
+188168005	Malignant neoplasm of ectopic site of male breast (disorder)	Malignant neoplasm of ectopic site of male breast
+372095001	Malignant neoplasm of male breast (disorder)	Malignant neoplasm of male breast
+188163001	Malignant neoplasm of nipple and areola of male breast (disorder)	Malignant neoplasm of nipple and areola of male breast
+449309003	Malignant neoplasm of skin of scrotum (disorder)	Malignant neoplasm of skin of scrotum
+700488005	Malignant sex cord tumor of testis (disorder)	Malignant sex cord tumour of testis
+417554000	Malignant teratoma of descended testis (disorder)	Malignant teratoma of descended testis
+416769008	Malignant teratoma of testis (disorder)	Malignant teratoma of testis
+417417007	Malignant teratoma of undescended testis (disorder)	Malignant teratoma of undescended testis
+369485004	Malignant tumor involving prostate by direct extension from bladder (disorder)	Malignant tumour involving prostate by direct extension from bladder
+369486003	Malignant tumor involving prostate by separate metastasis from bladder (disorder)	Malignant tumour involving prostate by separate metastasis from bladder
+369489005	Malignant tumor involving seminal vesicle by direct extension from bladder (disorder)	Malignant tumour involving seminal vesicle by direct extension from bladder
+369490001	Malignant tumor involving seminal vesicle by direct extension from prostate (disorder)	Malignant tumour involving seminal vesicle by direct extension from prostate
+369491002	Malignant tumor involving seminal vesicle by separate metastasis from bladder (disorder)	Malignant tumour involving seminal vesicle by separate metastasis from bladder
+369492009	Malignant tumor involving seminal vesicle by separate metastasis from prostate (disorder)	Malignant tumour involving seminal vesicle by separate metastasis from prostate
+369484000	Malignant tumor involving vasa deferentia by separate metastasis from prostate (disorder)	Malignant tumour involving vasa deferentia by separate metastasis from prostate
+188230001	Malignant tumor of body of penis (disorder)	Malignant tumour of body of penis
+276420005	Malignant tumor of corpus cavernosum (disorder)	Malignant tumour of corpus cavernosum
+276419004	Malignant tumor of corpus spongiosum (disorder)	Malignant tumour of corpus spongiosum
+188220005	Malignant tumor of ectopic testis (disorder)	Malignant tumour of ectopic testis
+363452003	Malignant tumor of epididymis (disorder)	Malignant tumour of epididymis
+363450006	Malignant tumor of foreskin (disorder)	Malignant tumour of foreskin
+363451005	Malignant tumor of glans penis (disorder)	Malignant tumour of glans penis
+363515000	Malignant tumor of male genital organ (disorder)	Malignant tumour of male genital organ
+363516004	Malignant tumor of penis (disorder)	Malignant tumour of penis
+399068003	Malignant tumor of prostate (disorder)	Malignant tumour of prostate
+363454002	Malignant tumor of scrotum (disorder)	Malignant tumour of scrotum
+188234005	Malignant tumor of seminal vesicle (disorder)	Malignant tumour of seminal vesicle
+254908006	Malignant tumor of skin of penis (disorder)	Malignant tumour of skin of penis
+363453008	Malignant tumor of spermatic cord (disorder)	Malignant tumour of spermatic cord
+363449006	Malignant tumor of testis (disorder)	Malignant tumour of testis
+188235006	Malignant tumor of tunica vaginalis (disorder)	Malignant tumour of tunica vaginalis
+188219004	Malignant tumor of undescended testis (disorder)	Malignant tumour of undescended testis
+300499002	Mass of epididymis (finding)	Mass of epididymis
+300858004	Mass of male genital structure (finding)	Mass of male genital structure
+127021000119102	Mass of male perineum (finding)	Male perineal mass
+300515007	Mass of penis (finding)	Mass of penis
+300523009	Mass of prepuce (finding)	Mass of prepuce
+53929009	Mass of scrotum (finding)	Scrotal mass
+87860000	Mass of testicle (finding)	Testicular mass
+213064001	Mechanical complication of prosthetic reconstruction of vas deferens (disorder)	Mechanical complication of prosthetic reconstruction of vas deferens
+67580000	Median bar of prostate (disorder)	Median bar of prostate
+782194002	Median raphe cyst (disorder)	Median raphe cyst
+447415007	Median raphe cyst of penis (disorder)	Median raphe cyst of penis
+253905000	Megalourethra (disorder)	Megalourethra
+724466005	Melanotic macule of penis (disorder)	Melanotic macule of penis
+403466004	Micaceous and keratotic balanitis (disorder)	Micaceous and keratotic balanitis
+446419007	Minimally enlarged prostate (finding)	Minimally enlarged prostate
+278491007	Mixed seminoma teratoma of testis (disorder)	Mixed seminoma teratoma of testis
+45703009	Molimen climacterium virile (finding)	Molimen climacterium virile
+361278002	Mondor's phlebitis of the penis (disorder)	Mondor's phlebitis of the penis
+87310001	Monorchism (disorder)	Monorchism
+254690006	Mucous cyst of penis (disorder)	Penile mucous cyst
+66841006	Mullerian inhibiting factor deficiency (disorder)	Mullerian inhibiting factor deficiency
+236771002	Mumps epididymo-orchitis (disorder)	Mumps epididymo-orchitis
+78580004	Mumps orchitis (disorder)	Mumps orchitis
+236748004	Mycoplasma balanitis (disorder)	Mycoplasma balanitis
+81021006	Myoma of prostate (disorder)	Myoma of prostate
+249258003	Narrow outlet of foreskin (finding)	Narrow outlet of foreskin
+67708007	Necrospermia (finding)	Necrospermia
+238399000	Necrotizing fasciitis of scrotum and perineum (disorder)	Necrotising fasciitis of scrotum and perineum
+126939009	Neoplasm of areola of male breast (disorder)	Neoplasm of areola of male breast
+126899005	Neoplasm of body of penis (disorder)	Neoplasm of body of penis
+126940006	Neoplasm of ectopic male breast tissue (disorder)	Neoplasm of ectopic male breast tissue
+126902008	Neoplasm of epididymis (disorder)	Neoplasm of epididymis
+126898002	Neoplasm of glans penis (disorder)	Neoplasm of glans penis
+126937006	Neoplasm of male breast (disorder)	Neoplasm of male breast
+126895004	Neoplasm of male genital organ (disorder)	Neoplasm of male genital organ
+126938001	Neoplasm of nipple of male breast (disorder)	Neoplasm of nipple of male breast
+126896003	Neoplasm of penis (disorder)	Neoplasm of penis
+126897007	Neoplasm of prepuce (disorder)	Neoplasm of prepuce
+126906006	Neoplasm of prostate (disorder)	Neoplasm of prostate
+126905005	Neoplasm of scrotum (disorder)	Neoplasm of scrotum
+126904009	Neoplasm of spermatic cord (disorder)	Neoplasm of spermatic cord
+126900000	Neoplasm of testis (disorder)	Neoplasm of testis
+94746002	Neoplasm of uncertain behavior of areola of male breast (disorder)	Neoplasm of uncertain behaviour of areola of male breast
+94757007	Neoplasm of uncertain behavior of body of penis (disorder)	Neoplasm of uncertain behaviour of body of penis
+94817000	Neoplasm of uncertain behavior of ectopic male breast tissue (disorder)	Neoplasm of uncertain behaviour of ectopic male breast tissue
+94823005	Neoplasm of uncertain behavior of epididymis (disorder)	Neoplasm of uncertain behaviour of epididymis
+94853003	Neoplasm of uncertain behavior of glans penis (disorder)	Neoplasm of uncertain behaviour of glans penis
+94924003	Neoplasm of uncertain behavior of male breast (disorder)	Neoplasm of uncertain behaviour of male breast
+94925002	Neoplasm of uncertain behavior of male genital organ (disorder)	Neoplasm of uncertain behaviour of male genital organ
+94965003	Neoplasm of uncertain behavior of nipple of male breast (disorder)	Neoplasm of uncertain behaviour of nipple of male breast
+94994005	Neoplasm of uncertain behavior of penis (disorder)	Neoplasm of uncertain behaviour of penis
+94845006	Neoplasm of uncertain behavior of prepuce (disorder)	Neoplasm of uncertain behaviour of prepuce
+95014000	Neoplasm of uncertain behavior of prostate (disorder)	Neoplasm of uncertain behaviour of prostate
+95039009	Neoplasm of uncertain behavior of scrotum (disorder)	Neoplasm of uncertain behaviour of scrotum
+95105008	Neoplasm of uncertain behavior of spermatic cord (disorder)	Neoplasm of uncertain behaviour of spermatic cord
+95127004	Neoplasm of uncertain behavior of testis (disorder)	Neoplasm of uncertain behaviour of testis
+95153007	Neoplasm of uncertain behavior of undescended testis (disorder)	Neoplasm of uncertain behaviour of undescended testis
+95173002	Neoplasm of uncertain behavior of vas deferens (disorder)	Neoplasm of uncertain behaviour of vas deferens
+126901001	Neoplasm of undescended testis (disorder)	Neoplasm of undescended testis
+126903003	Neoplasm of vas deferens (disorder)	Neoplasm of vas deferens
+236753009	Neuropathic impotence (disorder)	Neuropathic impotence
+2216005	Nocturnal emission (finding)	Nocturnal emission
+55892009	Nocturnal erection of penis (finding)	Nocturnal erection of penis
+40411000119106	Nodular prostate without urinary obstruction (disorder)	Nodular prostate without urinary obstruction
+236673008	Non-bacterial prostatitis (disorder)	Non-bacterial prostatitis
+449318001	Non-Hodgkin's lymphoma of prostate (disorder)	Non-Hodgkin's lymphoma of prostate
+448387008	Non-Hodgkin's lymphoma of testis (disorder)	Non-Hodgkin's lymphoma of testis
+298016002	Non-malignant male frozen pelvis (disorder)	Non-malignant male frozen pelvis
+107691000119101	Non-seminomatous germ cell neoplasm of testis (disorder)	Non-seminomatous germ cell neoplasm of testis
+50390006	Non-specific granulomatous orchitis (disorder)	Non-specific granulomatous orchitis
+300490003	Non-tender testes (finding)	Non-tender testes
+36431005	Non-venereal sclerosing lymphangitis of penis (disorder)	Non-venereal sclerosing lymphangitis of penis
+195495009	Nonfilarial chylocele (disorder)	Nonfilarial chylocele
+441545004	Nonischemic priapism (disorder)	Nonischaemic priapism
+38501006	Nontraumatic hematoma of corpus cavernosum (disorder)	Nontraumatic haematoma of corpus cavernosum
+54816003	Nontraumatic hematoma of penis (disorder)	Nontraumatic haematoma of penis
+64443004	Nontraumatic hematoma of seminal vesicle (disorder)	Nontraumatic haematoma of seminal vesicle
+35644004	Nontraumatic hematoma of testis (disorder)	Nontraumatic haematoma of testis
+35057008	Nonvenomous insect bite of penis with infection (disorder)	Nonvenomous insect bite of penis with infection
+35383007	Nonvenomous insect bite of penis without infection (disorder)	Nonvenomous insect bite of penis without infection
+47027001	Nonvenomous insect bite of scrotum with infection (disorder)	Nonvenomous insect bite of scrotum with infection
+23111000	Nonvenomous insect bite of scrotum without infection (disorder)	Nonvenomous insect bite of scrotum without infection
+81769002	Nonvenomous insect bite of testis with infection (disorder)	Nonvenomous insect bite of testis with infection
+55590009	Normal angle of erection (finding)	Normal angle of erection
+59552005	Normal ejaculation (finding)	Normal ejaculation
+300503008	Normal epididymis (finding)	Normal epididymis
+370991000	Normal male reproductive function (finding)	Normal male reproductive function
+82195006	Normal male sexual function (finding)	Normal male sexual function
+300531004	Normal sized prostate (finding)	Normal sized prostate
+300483008	Normal sized testicle (finding)	Normal sized testicle
+302031001	Normal testis consistency (finding)	Normal testis consistency
+18258000	Normospermatogenic sterility (finding)	Normospermatogenic sterility
+418499009	Obstruction of efferent duct of testis (disorder)	Obstruction of efferent duct of testis
+725220006	Occlusion of corpus cavernosum (disorder)	Occlusion of corpus cavernosum
+448532006	Oligoasthenozoospermia (finding)	Oligoasthenozoospermia
+236803007	Oligosynaptic infertility (disorder)	Oligosynaptic infertility
+88311004	Oligozoospermia (finding)	Oligozoospermia
+367761000119105	Oligozoospermia caused by drug therapy (disorder)	Oligozoospermia caused by drug therapy
+367791000119103	Oligozoospermia caused by radiation (disorder)	Oligozoospermia caused by radiation
+367781000119101	Oligozoospermia co-occurrent and due to obstruction of efferent duct (disorder)	Oligozoospermia co-occurrent and due to obstruction of efferent duct
+367771000119104	Oligozoospermia due to infection (finding)	Oligozoospermia due to infection
+367801000119102	Oligozoospermia due to systemic disease (disorder)	Oligozoospermia due to systemic disease
+163876003	On examination - cremasteric reflex negative (finding)	On examination - cremasteric reflex negative
+163875004	On examination - cremasteric reflex positive (finding)	On examination - cremasteric reflex positive
+163379002	On examination - epididymal swelling (finding)	O/E - epididymal swelling
+704113009	On examination - epididymis normal (finding)	O/E - epididymis normal
+162752009	On examination - feminized male (finding)	O/E - feminised male
+163435004	On examination - gynecomastia (disorder)	O/E - gynaecomastia
+390919006	On examination - left scrotal swelling (finding)	O/E - left scrotal swelling
+309661009	On examination - male genitalia (finding)	O/E - male genitalia
+439172003	On examination - male genitalia abnormal (finding)	On examination - male genitalia abnormal
+439104003	On examination - male genitalia normal (finding)	On examination - male genitalia normal
+163390007	On examination - penile abnormality (disorder)	O/E - penile abnormality
+163391006	On examination - penile discharge (finding)	O/E - penile discharge
+163388006	On examination - penis (finding)	O/E - penis
+163389003	On examination - penis normal (finding)	O/E - penis normal
+400996003	On examination - per rectum - prostate median sulcus not preserved (finding)	O/E - PR - prostate median sulcus not preserved
+400997007	On examination - per rectum - prostate median sulcus preserved (finding)	O/E - PR - prostate median sulcus preserved
+310534004	On examination - per rectum - prostate tender (finding)	O/E - PR - prostate tender
+271302001	On examination - per rectum - prostatic swelling (finding)	O/E - PR - prostatic swelling
+309663007	On examination - prostate (finding)	O/E - prostate
+168040002	On examination - prostatic calculus (disorder)	O/E: prostatic calculus
+390918003	On examination - right scrotal swelling (finding)	O/E - right scrotal swelling
+275949000	On examination - scrotal edema (disorder)	O/E - scrotal oedema
+163377000	On examination - scrotal swelling - no transillumination (disorder)	On examination - scrotal swelling - no transillumination
+268946005	On examination - scrotal swelling (finding)	O/E - scrotal swelling
+163376009	On examination - scrotal swelling-transillumination (finding)	O/E -scrotal swelling-transill
+309662002	On examination - scrotum (finding)	O/E - scrotum
+704108005	On examination - scrotum normal (finding)	O/E - scrotum normal
+163378005	On examination - swelling of testicle (finding)	O/E - testicular swelling
+439105002	On examination - testes abnormal (finding)	On examination - testes abnormal
+163381000	On examination - testes descended (finding)	O/E - testes descended
+309664001	On examination - testicle (finding)	O/E - testicle
+163380004	On examination - testicles normal (finding)	O/E - testicles normal
+163383002	On examination - testicles small (finding)	O/E - testicles small
+801000119105	On rectal examination of prostate abnormality detected (finding)	On rectal examination of prostate abnormality detected
+442453008	On rectal examination of prostate no abnormality detected (finding)	On rectal examination of prostate no abnormality detected
+210426009	Open wound of penis (disorder)	Open wound of penis
+52801002	Open wound of penis with complication (disorder)	Open wound of penis with complication
+90057007	Open wound of penis without complication (disorder)	Open wound of penis without complication
+210430007	Open wound of scrotum (disorder)	Open wound of scrotum
+210429002	Open wound of scrotum and testes (disorder)	Open wound of scrotum and testes
+210434003	Open wound of scrotum and testes with complication (disorder)	Open wound of scrotum and testes with complication
+87702004	Open wound of scrotum with complication (disorder)	Open wound of scrotum with complication
+80310004	Open wound of scrotum without complication (disorder)	Open wound of scrotum without complication
+210431006	Open wound of testis (disorder)	Open wound of testis
+33423009	Open wound of testis with complication (disorder)	Open wound of testis with complication
+31762007	Open wound of testis without complication (disorder)	Open wound of testis without complication
+81771002	Opitz-Frias syndrome (disorder)	Opitz-Frias syndrome
+274718005	Orchitis (disorder)	Orchitis
+197983000	Orchitis and epididymitis (disorder)	Orchitis and epididymitis
+197988009	Orchitis associated with another disorder (disorder)	Orchitis associated with another disorder
+75632007	Orchitis with abscess (disorder)	Orchitis with abscess
+70053000	Orchitis without abscess (disorder)	Orchitis without abscess
+248785004	Orgasm without ejaculation (disorder)	Orgasm without ejaculation
+109887009	Overlapping malignant neoplasm of male breast (disorder)	Overlapping malignant neoplasm of male breast
+109874003	Overlapping malignant neoplasm of male genital organs (disorder)	Overlapping malignant neoplasm of male genital organs
+109875002	Overlapping malignant neoplasm of penis (disorder)	Overlapping malignant neoplasm of penis
+36386007	Overt sexual harassment by male (finding)	Overt sexual harassment by male
+447738006	Paget's disease of skin of scrotum (disorder)	Paget's disease of skin of scrotum
+279020002	Pain in male genitalia (finding)	Pain in male genitalia
+85011000119101	Pain in male pelvis (finding)	Pain in male pelvis
+430968008	Pain in male perineum (finding)	Pain in male perineum
+285375003	Pain in penis (finding)	Pain in penis
+20502007	Pain in scrotum (finding)	Pain in scrotum
+63901009	Pain in testicle (finding)	Orchidodynia
+442236004	Pain in testicle as late effect of injury to testicle (disorder)	Pain in testicle as late effect of injury to testicle
+50818007	Painful ejaculation (finding)	Painful ejaculation
+8034008	Painful penile erection (finding)	Painful penile erection
+23285006	Painful sexual act of male (finding)	Painful sexual act of male
+13758004	Paraphimosis (disorder)	Paraphimosis
+7762009	Paraspadias (disorder)	Paraspadias
+699317002	Paratesticular malignant neoplasm (disorder)	Paratesticular malignant neoplasm
+102031000119109	Paratesticular mass (disorder)	Paratesticular mass
+281591005	Paratesticular tumor (disorder)	Paratesticular tumour
+249249005	Partial flaccidity of penis (finding)	Partial flaccidity of penis
+262914003	Partial rupture of male urethra (disorder)	Partial rupture of male urethra
+47255005	Partial thickness burn of male genitalia (disorder)	Partial thickness burn of male genitalia
+33186007	Passive discharge of semen from urethra (finding)	Passive discharge of semen from urethra
+308006	Pearly penile papules (disorder)	Pearly penile papules
+765109004	Pedophilia targeting children of male sex (disorder)	Paedophilia targeting children of male sex
+240663001	Penile amebiasis (disorder)	Penile amoebiasis
+252036000	Penile arterial insufficiency (disorder)	Penile arterial insufficiency
+240708000	Penile candidiasis (disorder)	Penile candidiasis
+286983008	Penile cellulitis/abscess/boil (disorder)	Penile cellulitis/abscess/boil
+402954007	Penile chancroid (disorder)	Penile chancroid
+60704006	Penile erection (finding)	Penile erection
+403469006	Penile gangrene (disorder)	Penile gangrene
+238704004	Penile hypermelanosis (disorder)	Penile hypermelanosis
+255148008	Penile intraepithelial neoplasia (disorder)	Penile intraepithelial neoplasia
+400092004	Penile intraepithelial neoplasia grade III (disorder)	Penile intraepithelial neoplasia grade III
+429661000124108	Penile mid-shaft hypospadias (disorder)	Penile mid-shaft hypospadias
+404192008	Penile prosthesis infection (disorder)	Penile prosthesis infection
+403473009	Penile sclerosing lipogranuloma (disorder)	Penile sclerosing lipogranuloma
+416637009	Penile sclerosing lipogranuloma caused by injected substance (disorder)	Penile sclerosing lipogranuloma due to injected substance
+429651000124106	Penile shaft hypospadias (disorder)	Penile shaft hypospadias
+335977000	Penile swelling (disorder)	Penile swelling
+403472004	Penile ulceration due to Behçet's disease (disorder)	Penile ulceration due to Behçet's disease
+403470007	Penile venereal edema (disorder)	Penile venereal oedema
+252037009	Penile venous leak (finding)	Penile venous leak
+402911002	Penile verrucous carcinoma of Buschke-Löwenstein (disorder)	Penile verrucous carcinoma of Buschke-Löwenstein
+240598006	Penile warts (disorder)	Penile warts
+249247007	Penis bent (finding)	Penis bent
+249244000	Penis finding (finding)	Penis finding
+300527005	Penis normal (finding)	Penis normal
+300528000	Penis problem (finding)	Penis problem
+762522008	Penoscrotodynia (finding)	Penoscrotodynia
+6336005	Periprostatic adhesions (disorder)	Periprostatic adhesions
+126878007	Persistent preputial frenulum (disorder)	Persistent preputial frenulum
+282360001	Persistent testicular pain (finding)	Persistent testicular pain
+449826002	Phimosis (disorder)	Phimosis
+17471001	Polyorchism (disorder)	Polyorchism
+66255005	Poor erection (disorder)	Poor erection
+236813004	Post-chemotherapy testicular hypofunction (disorder)	Post-chemotherapy testicular hypofunction
+190553000	Post-surgical testicular hypofunction (disorder)	Postoperative testicular hypofunction
+282359006	Post-vasectomy epididymal pain (finding)	Post-vasectomy epididymal pain
+190552005	Postablative testicular hypofunction (disorder)	Postablative testicular hypofunction
+44318002	Posthitis (disorder)	Posthitis
+367831000119109	Postinfective anterior urethral stricture (disorder)	Postinfective anterior urethral stricture
+367841000119100	Postinfective bulbous urethral stricture (disorder)	Postinfective bulbous urethral stricture
+367851000119103	Postinfective membranous urethral stricture (disorder)	Postinfective membranous urethral stricture
+367881000119105	Postinfective urethral meatal stricture of male (disorder)	Postinfective urethral meatal stricture of male
+367871000119107	Postinfective urethral stricture of male (disorder)	Postinfective urethral stricture of male
+20615009	Postirradiation testicular hypofunction (disorder)	Postirradiation testicular hypofunction
+770903003	Postorgasmic illness syndrome (disorder)	Postorgasmic illness syndrome
+367891000119108	Postprocedural anterior urethral stricture (disorder)	Postprocedural anterior urethral stricture
+367911000119105	Postprocedural bulbous urethral stricture (disorder)	Postprocedural bulbous urethral stricture
+367931000119100	Postprocedural meatal urethral stricture, male (disorder)	Postprocedural meatal urethral stricture, male
+367941000119109	Postprocedural membranous urethral stricture (disorder)	Postprocedural membranous urethral stricture
+314435009	Preference for male healthcare professional (finding)	Preference for male healthcare professional
+4886009	Premature birth of newborn male (finding)	Premature birth of newborn male
+44001008	Premature ejaculation (finding)	Premature ejaculation
+124732006	Premature male climacteric (finding)	Premature male climacteric
+253853002	Preputial adhesions (disorder)	Preputial adhesions
+6273006	Priapism (disorder)	Priapism
+368281000119108	Priapism caused by drug (disorder)	Priapism due to drug
+367061000119107	Priapism due to sickle cell disease (disorder)	Priapism due to sickle cell disease
+368291000119106	Priapism due to trauma (disorder)	Priapism due to trauma
+721603005	Primary choriocarcinoma of testis (disorder)	Primary choriocarcinoma of testis
+721602000	Primary embryonal carcinoma of testis (disorder)	Primary embryonal carcinoma of testis
+402889005	Primary herpes simplex infection of penis (disorder)	Primary herpes simplex infection of penis
+721578007	Primary liposarcoma of male genital organ (disorder)	Primary liposarcoma of male genital organ
+236788009	Primary male infertility (disorder)	Primary male infertility
+93681000	Primary malignant neoplasm of areola of male breast (disorder)	Primary malignant neoplasm of areola of male breast
+93716006	Primary malignant neoplasm of body of penis (disorder)	Primary malignant neoplasm of body of penis
+109876001	Primary malignant neoplasm of descended testis (disorder)	Primary malignant neoplasm of descended testis
+93777006	Primary malignant neoplasm of ectopic male breast tissue (disorder)	Primary malignant neoplasm of ectopic male breast tissue
+93783009	Primary malignant neoplasm of epididymis (disorder)	Primary malignant neoplasm of epididymis
+371989002	Primary malignant neoplasm of glans penis (disorder)	Primary malignant neoplasm of glans penis
+93884005	Primary malignant neoplasm of male breast (disorder)	Primary malignant neoplasm of male breast
+93885006	Primary malignant neoplasm of male genital organ (disorder)	Primary malignant neoplasm of male genital organ
+93925009	Primary malignant neoplasm of nipple of male breast (disorder)	Primary malignant neoplasm of nipple of male breast
+372005006	Primary malignant neoplasm of penis (disorder)	Primary malignant neoplasm of penis
+372006007	Primary malignant neoplasm of prepuce (disorder)	Primary malignant neoplasm of prepuce
+93974005	Primary malignant neoplasm of prostate (disorder)	Primary malignant neoplasm of prostate
+712849003	Primary malignant neoplasm of prostate metastatic to bone (disorder)	Primary malignant neoplasm of prostate metastatic to bone
+372009000	Primary malignant neoplasm of scrotum (disorder)	Primary malignant neoplasm of scrotum
+369487007	Primary malignant neoplasm of seminal vesicle (disorder)	Primary malignant neoplasm of seminal vesicle
+372013007	Primary malignant neoplasm of spermatic cord (disorder)	Primary malignant neoplasm of spermatic cord
+94087009	Primary malignant neoplasm of testis (disorder)	Primary malignant neoplasm of testis
+94113004	Primary malignant neoplasm of undescended testis (disorder)	Primary malignant neoplasm of undescended testis
+94133000	Primary malignant neoplasm of vas deferens (disorder)	Primary malignant neoplasm of vas deferens
+721574009	Primary rhabdomyosarcoma of male genital organ (disorder)	Primary rhabdomyosarcoma of male genital organ
+1081781000119105	Primary seminoma of left testis (disorder)	Primary seminoma of left testis
+1081811000119107	Primary seminoma of right testis (disorder)	Primary seminoma of right testis
+236800005	Primary spermatogenic failure (disorder)	Primary spermatogenic failure
+721604004	Primary squamous cell carcinoma of overlapping lesion of male genital organ (disorder)	Primary squamous cell carcinoma of overlapping lesion of male genital organ
+370997001	Primary testicular failure (disorder)	Primary testicular failure
+276364001	Problem getting an erection (finding)	Problem getting an erection
+724453005	Problem of prostate (finding)	Problem of prostate
+5241006	Prolapse of prepuce (disorder)	Prolapse of prepuce
+109860005	Proliferative vasitis nodosa (disorder)	Proliferative vasitis nodosa
+236758000	Prolonged erection of penis (finding)	Prolonged erection of penis
+366293002	Prostate consistency finding (finding)	Prostate consistency finding
+275302008	Prostate enlarged on PR (finding)	Prostate enlarged on PR
+249604002	Prostate finding (finding)	Prostate finding
+309089006	Prostate mass (finding)	Prostate mass
+154411000119109	Prostate nodule (disorder)	Prostate nodule
+300530003	Prostate not palpable (finding)	Prostate not palpable
+300529008	Prostate palpable (finding)	Prostate palpable
+249610002	Prostate surface finding (finding)	Prostate surface finding
+300535008	Prostate tender (finding)	Prostate tender
+1090331000119100	Prostatic coccidioidomycosis (disorder)	Prostatic coccidioidomycosis
+197973004	Prostatic congestion or hemorrhage (disorder)	Prostatic congestion or haemorrhage
+235788003	Prostatic fistula to colon (disorder)	Prostatic fistula to colon
+236678004	Prostatic fistula to skin (disorder)	Prostatic fistula to skin
+235787008	Prostatic fistula to small intestine (disorder)	Prostatic fistula to small intestine
+197959008	Prostatic hyperplasia of the lateral lobe (disorder)	Prostatic hyperplasia of the lateral lobe
+197960003	Prostatic hyperplasia of the medial lobe (disorder)	Prostatic hyperplasia of the medial lobe
+254901000	Prostatic intraepithelial neoplasia (disorder)	Prostatic intraepithelial neoplasia
+74411000119100	Prostatic intraepithelial neoplasia and adjacent atypia (disorder)	Prostatic intraepithelial neoplasia and adjacent atypia
+353091000119100	Prostatic intraepithelial neoplasia high grade (disorder)	Prostatic intraepithelial neoplasia high grade
+353101000119105	Prostatic intraepithelial neoplasia low grade (disorder)	Prostatic intraepithelial neoplasia low grade
+4127004	Prostatic obstruction (disorder)	Prostatic obstruction
+36729000	Prostatic pain (finding)	Prostatic pain
+11441004	Prostatism (disorder)	Prostatism
+9713002	Prostatitis (disorder)	Prostatitis
+197963001	Prostatitis associated with another disorder (disorder)	Prostatitis associated with another disorder
+281801000009108	Prostatitis caused by bacteria (disorder)	Bacterial prostatitis
+197968005	Prostatitis caused by Candida (disorder)	Candida prostatitis
+67685000	Prostatocystitis (disorder)	Prostatocystitis
+74117008	Prostatorrhea (disorder)	Prostatorrhoea
+702436009	Proximal penile hypospadias (disorder)	Proximal penile hypospadias
+95590003	Pruritus of male genital organs (disorder)	Pruritus of male genital organs
+69069001	Pruritus of penis (disorder)	Pruritus of penis
+40694003	Pseudocryptorchism (disorder)	Pseudocryptorchism
+47106009	Pseudoemission (finding)	Pseudoemission
+237748007	Pseudohermaphrodite, male with adrenocortical disorder (disorder)	Pseudohermaphrodite, male with adrenocortical disorder
+402315002	Psoriasis of penis (disorder)	Psoriasis of penis
+153261000119109	Psychogenic inhibited male orgasm (finding)	Psychogenic inhibited male orgasm
+237451004	Pubertal gynecomastia (disorder)	Pubertal gynaecomastia
+271777008	Pyospermia (finding)	Pyospermia
+398768004	Queyrat's erythroplasia (disorder)	Queyrat's erythroplasia
+235786004	Rectoprostatic fistula (disorder)	Rectoprostatic fistula
+402895006	Recurrent herpes simplex of penis (disorder)	Recurrent herpes simplex of penis
+1098981000119101	Recurrent malignant neoplasm of prostate (disorder)	Recurrent malignant neoplasm of prostate
+39526006	Redundant prepuce (disorder)	Redundant prepuce
+266570005	Redundant prepuce and phimosis (disorder)	Redundant prepuce and phimosis
+254912000	Regressed malignant testicular tumor (disorder)	Regressed malignant testicular tumour
+21779006	Retractile testis (disorder)	Retractile testis
+50112006	Retrograde ejaculation (finding)	Retrograde ejaculation
+253850004	Rotated penis (disorder)	Rotated penis
+123666002	Rudimentary uterus in male (disorder)	Rudimentary uterus in male
+110016007	Rupture of corpus cavernosum of penis (disorder)	Fracture of penis
+283951006	Rupture of penis (disorder)	Rupture of penis
+283940006	Rupture of seminal vesicle (disorder)	Rupture of seminal vesicle
+262925007	Rupture of suspensory ligament of penis (disorder)	Rupture of suspensory ligament of penis
+282088003	Rupture of testis (disorder)	Rupture of testis
+283942003	Rupture of vas deferens (disorder)	Rupture of vas deferens
+448257000	Sarcoma of male breast (disorder)	Sarcoma of male breast
+361279005	Sclerosing lymphangitis of penis (disorder)	Sclerosing lymphangitis of penis
+297192002	Scrotal fistula (disorder)	Scrotal fistula
+198058000	Scrotal hematoma due to non-traumatic cause (disorder)	Scrotal haematoma due to non-traumatic cause
+702462000	Scrotal hypospadias (disorder)	Scrotal hypospadias
+65645005	Scrotal pruritus (disorder)	Scrotal pruritus
+198059008	Scrotal thrombosis (disorder)	Scrotal thrombosis
+249232003	Scrotum finding (finding)	Scrotum finding
+300480006	Scrotum normal (finding)	Scrotum normal
+115551000119104	Sebaceous cyst of penis (disorder)	Sebaceous cyst of penis
+62983000	Sebaceous cyst of scrotum (disorder)	Sebaceous cyst of scrotum
+236789001	Secondary male infertility (disorder)	Secondary male infertility
+94177007	Secondary malignant neoplasm of areola of male breast (disorder)	Secondary malignant neoplasm of areola of male breast
+94213007	Secondary malignant neoplasm of body of penis (disorder)	Secondary malignant neoplasm of body of penis
+94277004	Secondary malignant neoplasm of ectopic male breast tissue (disorder)	Secondary malignant neoplasm of ectopic male breast tissue
+94283001	Secondary malignant neoplasm of epididymis (disorder)	Secondary malignant neoplasm of epididymis
+188471005	Secondary malignant neoplasm of epididymis AND vas deferens (disorder)	Secondary malignant neoplasm of epididymis and vas deferens
+94315003	Secondary malignant neoplasm of glans penis (disorder)	Secondary malignant neoplasm of glans penis
+94401004	Secondary malignant neoplasm of male breast (disorder)	Secondary malignant neoplasm of male breast
+94402006	Secondary malignant neoplasm of male genital organ (disorder)	Secondary malignant neoplasm of male genital organ
+94444000	Secondary malignant neoplasm of nipple of male breast (disorder)	Secondary malignant neoplasm of nipple of male breast
+94481001	Secondary malignant neoplasm of penis (disorder)	Secondary malignant neoplasm of penis
+94307001	Secondary malignant neoplasm of prepuce (disorder)	Secondary malignant neoplasm of prepuce
+94503003	Secondary malignant neoplasm of prostate (disorder)	Secondary malignant neoplasm of prostate
+94531007	Secondary malignant neoplasm of scrotum (disorder)	Secondary malignant neoplasm of scrotum
+369488002	Secondary malignant neoplasm of seminal vesicle (disorder)	Secondary malignant neoplasm of seminal vesicle
+94597008	Secondary malignant neoplasm of spermatic cord (disorder)	Secondary malignant neoplasm of spermatic cord
+94623007	Secondary malignant neoplasm of testis (disorder)	Secondary malignant neoplasm of testis
+94651003	Secondary malignant neoplasm of undescended testis (disorder)	Secondary malignant neoplasm of undescended testis
+94671007	Secondary malignant neoplasm of vas deferens (disorder)	Secondary malignant neoplasm of vas deferens
+72413003	Seduction of male (finding)	Seduction of male
+403474003	Self-inflicted trauma involving penis (disorder)	Self-inflicted trauma involving penis
+167767004	Semen exam: abnormal (finding)	Semen exam: abnormal
+167761003	Semen examination: good fertility (finding)	Semen examination: good fertility
+167766008	Semen examination: infertile (finding)	Semen examination: infertile
+167764006	Semen examination: low fertility (finding)	Semen examination: low fertility
+167768009	Semen examination: normal (finding)	Semen examination: normal
+167762005	Semen examination:moderate fertility (finding)	Semen examination:moderate fertility
+167765007	Semen examination:very low fertility (finding)	Semen examination:very low fertility
+250498001	Semen finding (finding)	Semen finding
+134205008	Semen viscosity finding (finding)	Semen viscosity
+167771001	Semen volume good: 2-5 ml. (finding)	Semen volume good: 2-5 ml.
+167773003	Semen volume low: 0.5-1 ml (finding)	Semen volume low: 0.5-1 ml
+167772008	Semen volume moderate: 1-2 ml. (finding)	Semen volume moderate: 1-2 ml.
+167774009	Semen volume very low: less than 0.5 ml (finding)	Semen volume very low: less than 0.5 ml
+167775005	Semen volume: no specimen (finding)	Semen volume: no specimen
+64034001	Seminal emission (finding)	Seminal emission
+27001009	Seminal vesiculitis (disorder)	Seminal vesiculitis
+60607007	Seminiferous tubule failure in adult (disorder)	Seminiferous tubule failure in adult
+313429000	Seminoma of descended testis (disorder)	Seminoma of descended testis
+255107005	Seminoma of testis (disorder)	Seminoma of testis
+423816008	Seminoma of testis, stage 1 (finding)	Seminoma of testis, stage 1
+423645007	Seminoma of testis, stage 2 (finding)	Seminoma of testis, stage 2
+422679002	Seminoma of testis, stage 3 (finding)	Seminoma of testis, stage 3
+423697000	Seminoma of testis, stage 4 (finding)	Seminoma of testis, stage 4
+313428008	Seminoma of undescended testis (disorder)	Seminoma of undescended testis
+700489002	Sensorineural deafness and male infertility (disorder)	Sensorineural deafness and male infertility
+278057003	Sertoli cell tumor of testis (disorder)	Sertoli cell tumour of testis
+254284003	Sex chromosome abnormality - male phenotype (disorder)	Sex chromosome abnormality - male phenotype
+702406000	Sex cord stromal tumor of testis (disorder)	Sex cord stromal tumour of testis
+19705003	Sexual harassment by male (finding)	Sexual harassment by male
+766822004	Sexual orientation confusion (finding)	Sexual orientation confusion
+440583007	Sexual orientation unknown (finding)	Sexual orientation unknown
+53724006	Sexual recrudescence in elderly male (finding)	Sexual recrudescence in elderly male
+765286001	Sexually attracted to female sex (finding)	Sexually attracted to female sex
+765287005	Sexually attracted to male and female sex (finding)	Sexually attracted to male and female sex
+765285002	Sexually attracted to male sex (finding)	Sexually attracted to male sex
+765288000	Sexually attracted to neither male nor female sex (finding)	Sexually attracted to neither male nor female sex
+253855009	Short preputial frenulum (disorder)	Short preputial frenulum
+703865001	Skin disorder of male genitalia (disorder)	Skin disorder of male genitalia
+230498005	Sleep-related painful erections (disorder)	Sleep-related painful erections
+396198006	Small cell carcinoma of prostate (disorder)	Small cell carcinoma of prostate
+300517004	Small glans penis (finding)	Small glans penis
+276333003	Small penis (finding)	Small penis
+249608004	Small prostate (finding)	Small prostate
+276332008	Small scrotum (finding)	Small scrotum
+276411001	Small testicle (finding)	Small testicle
+249269000	Smegma offensive (finding)	Smegma offensive
+276385001	Soft prostate (finding)	Soft prostate
+300485001	Soft testes (finding)	Soft testes
+164826007	Special male test abnormal (finding)	Special male test abnormal
+164825006	Special male test normal (finding)	Special male test normal
+300541001	Sperm deformed (finding)	Sperm deformed
+300537000	Sperm finding (finding)	Sperm finding
+428775009	Sperm granuloma (disorder)	Sperm granuloma
+236769002	Sperm granuloma of epididymis (disorder)	Sperm granuloma of epididymis
+236787004	Sperm granuloma of spermatic cord (disorder)	Sperm granuloma of spermatic cord
+300543003	Sperm immotility (finding)	Sperm immotility
+167796003	Sperm morphology - no normal forms (finding)	Sperm morphology - no normal forms
+167792001	Sperm morphology good: greater than 80% normal (finding)	Sperm morphology good: greater than 80% normal
+167794000	Sperm morphology low: 30-50% normal (finding)	Sperm morphology low: 30-50% normal
+167793006	Sperm morphology moderate: 50-80% normal (finding)	Sperm morphology moderate: 50-80% normal
+167795004	Sperm morphology very low: less than 30% normal (finding)	Sperm morphology very low: less than 30% normal
+300542008	Sperm motile (finding)	Sperm motile
+315221003	Sperm motile no progression (finding)	Sperm motile no progression
+167787003	Sperm motility 6-8 hours low - 10-30% (finding)	Sperm motility 6-8 hours low - 10-30%
+167788008	Sperm motility 6-8 hours very low - less than 10% (finding)	Sperm motility 6-8 hours very low - less than 10%
+167785006	Sperm motility at 6-8 hrs. good >40% (finding)	Sperm motility at 6-8 hrs. good >40%
+167786007	Sperm motility at 6-8 hrs. moderate: 30-40% (finding)	Sperm motility at 6-8 hrs. moderate: 30-40%
+315220002	Sperm non-motile (finding)	Sperm non-motile
+167789000	Sperm non-motile at 6-8 hours (finding)	Sperm non-motile at 6-8 hours
+167777002	Sperm number/cc good: greater than 60 million (finding)	Sperm number/cc good: greater than 60 million
+167779004	Sperm number/cc low: 10-30 million (finding)	Sperm number/cc low: 10-30 million
+167778007	Sperm number/cc moderate: 30-60 million (finding)	Sperm number/cc moderate: 30-60 million
+167780001	Sperm number/cc very low: 0-10 million (finding)	Sperm number/cc very low: 0-10 million
+300539002	Sperm present (finding)	Sperm present
+315223000	Sperm progression rapid (finding)	Sperm progression rapid
+315222005	Sperm progression slow (finding)	Sperm progression slow
+167798002	Sperm: abnormal constituents (finding)	Sperm: abnormal constituents
+167800009	Sperm: hemospermia O/E (finding)	Sperm: haemospermia O/E
+167801008	Sperm: pyospermia O/E (finding)	Sperm: pyospermia O/E
+167799005	Sperm:no abnormal constituents (finding)	Sperm:no abnormal constituents
+31211008	Spermatemphraxis (finding)	Spermatemphraxis
+300509007	Spermatic cord finding (finding)	Spermatic cord finding
+300511003	Spermatic cord non-palpable (finding)	Spermatic cord non-palpable
+300510002	Spermatic cord palpable (finding)	Spermatic cord palpable
+198065008	Spermatic cord stricture (disorder)	Spermatic cord stricture
+360384007	Spermatic obstruction (disorder)	Spermatic obstruction
+49263001	Spermatocele (disorder)	Spermatocele
+85716005	Spermatogenic arrest (finding)	Spermatogenic arrest
+69848004	Spermatoschesis (finding)	Spermatoschesis
+274735009	Spermatozoa abnormal (finding)	Spermatozoa abnormal
+773623000	Spigelian hernia with cryptorchidism syndrome (disorder)	Spigelian hernia with cryptorchidism syndrome
+763889002	Spina bifida and hypospadias syndrome (disorder)	Spina bifida and hypospadias syndrome
+211148004	Splinter of penis without major open wound, infected (disorder)	Splinter of penis without major open wound, infected
+211132000	Splinter of penis, without major open wound (disorder)	Splinter of penis, without major open wound
+269199006	Splinter of scrotum and testis without major open wound, infected (disorder)	Splinter of scrotum and testis without major open wound, infected
+269198003	Splinter of scrotum and testis, without major open wound (disorder)	Splinter of scrotum and testis, without major open wound
+403468003	Squamous cell carcinoma of penis (disorder)	Squamous cell carcinoma of penis
+399590005	Squamous cell carcinoma of prostate (disorder)	Squamous cell carcinoma of prostate
+276860003	Squamous cell carcinoma of scrotum (disorder)	Squamous cell carcinoma of scrotum
+460001	Squamous metaplasia of prostate gland (disorder)	Squamous metaplasia of prostate gland
+35608009	Stillbirth of immature male (500-999 gms.) (finding)	Stillbirth of immature male (500-999 gms.)
+7860005	Stillbirth of mature male (2500 gms. or more) (finding)	Stillbirth of mature male (2500 gms. or more)
+77814006	Stillbirth of premature male (1000-2499 gms.) (finding)	Stillbirth of premature male (1000-2499 gms.)
+236757005	Strangulation of penis (disorder)	Strangulation of penis
+12711004	Stricture of prostate (disorder)	Stricture of prostate
+16447004	Stricture of vas deferens (disorder)	Stricture of vas deferens
+236785007	Stricture of vas deferens post-reversal of vasectomy (disorder)	Stricture of vas deferens post-reversal of vasectomy
+270369000	Stromal cell hyperplasia in androgen insensitivity syndrome (disorder)	Stromal cell hyperplasia in androgen insensitivity syndrome
+442584007	Stuttering priapism (disorder)	Stuttering priapism
+45822009	Superficial foreign body of penis without major open wound AND without infection (disorder)	Superficial foreign body of penis without major open wound AND without infection
+43368003	Superficial foreign body of penis without major open wound but with infection (disorder)	Superficial foreign body of penis without major open wound but with infection
+86956009	Superficial foreign body of scrotum without major open wound AND without infection (disorder)	Superficial foreign body of scrotum without major open wound AND without infection
+147001	Superficial foreign body of scrotum without major open wound but with infection (disorder)	Superficial foreign body of scrotum without major open wound but with infection
+66116001	Superficial foreign body of testis without major open wound AND without infection (disorder)	Superficial foreign body of testis without major open wound AND without infection
+72961000	Superficial foreign body of testis without major open wound but with infection (disorder)	Superficial foreign body of testis without major open wound but with infection
+447820001	Superficial injury of penis (disorder)	Superficial injury of penis
+78471002	Superficial injury of penis with infection (disorder)	Superficial injury of penis with infection
+62586003	Superficial injury of penis without infection (disorder)	Superficial injury of penis without infection
+448650009	Superficial injury of scrotum and testis (disorder)	Superficial injury of scrotum and testis
+111709005	Superficial injury of scrotum with infection (disorder)	Superficial injury of scrotum with infection
+81760003	Superficial injury of scrotum without infection (disorder)	Superficial injury of scrotum without infection
+39275008	Superficial injury of testis with infection (disorder)	Superficial injury of testis with infection
+85498009	Superficial injury of testis without infection (disorder)	Superficial injury of testis without infection
+407378000	Surgically transgendered transsexual, male-to-female (finding)	Surgically transgendered transsexual, male-to-female
+300882009	Swelling of male genital structure (finding)	Swelling of male genital structure
+271687003	Swelling of scrotum (finding)	Swelling of scrotum
+438457000	Swelling of testicle (finding)	Swelling of testicle
+300533001	Swollen prostate (finding)	Swollen prostate
+402943002	Syphilitic balanitis (disorder)	Syphilitic balanitis
+402940004	Syphilitic chancre of penis (disorder)	Syphilitic chancre of penis
+197966009	Syphilitic prostatitis (disorder)	Syphilitic prostatitis
+300489007	Tender testes (finding)	Tender testes
+301396000	Tenderness of male genitalia (finding)	Tenderness of male genitalia
+236817003	Teratozoospermia (disorder)	Teratozoospermia
+21127004	Term birth of newborn male (finding)	Term birth of newborn male
+300487009	Testes - transverse lie (finding)	Testes - transverse lie
+276405004	Testicle in inguinal canal (finding)	Testicle in inguinal canal
+249240009	Testicle out of place (finding)	Testicle out of place
+249238004	Testicles in scrotum (finding)	Testicles in scrotum
+253847002	Testicular dysgenesis (disorder)	Testicular dysgenesis
+445338005	Testicular dysgenesis syndrome (disorder)	Testicular dysgenesis syndrome
+249236000	Testicular finding (finding)	Testicular finding
+206243008	Testicular hematoma due to birth trauma (disorder)	Testicular haematoma due to birth trauma
+29206004	Testicular hyperfunction (disorder)	Testicular hyperfunction
+111551000	Testicular hypofunction (disorder)	Testicular hypofunction
+267402007	Testicular hypofunction due to defect in adrenocortical hormone synthesis (disorder)	Testicular hypofunction due to defect in adrenocortical hormone synthesis
+721289001	Testicular hypofunction following procedure (disorder)	Testicular hypofunction following procedure
+269387007	Testicular lesion in androgen insensitivity syndrome (disorder)	Testicular lesion in androgen insensitivity syndrome
+193440001	Testicular lesion of adrenogenital syndrome (disorder)	Testicular lesion of adrenogenital syndrome
+117261000119108	Testicular microlithiasis (finding)	Testicular microlithiasis
+236728006	Testicular prosthesis displacement (disorder)	Testicular prosthesis displacement
+236730008	Testicular prosthesis extrusion (disorder)	Testicular prosthesis extrusion
+236729003	Testicular prosthesis infection (disorder)	Testicular prosthesis infection
+53599007	Testicular regression syndrome (disorder)	Testicular regression syndrome
+300493001	Testis normal (finding)	Testis normal
+300481005	Testis present (finding)	Testis present
+249266007	Thickening of spermatic cord (finding)	Thickening of spermatic cord
+169843007	Three male babies (finding)	Three male babies
+44437005	Thrombosis of corpus cavernosum (disorder)	Thrombosis of corpus cavernosum
+76598006	Thrombosis of penile vein (disorder)	Thrombosis of penile vein
+44902004	Thrombosis of penis (disorder)	Thrombosis of penis
+36826002	Thrombosis of seminal vesicle (disorder)	Thrombosis of seminal vesicle
+43108009	Thrombosis of spermatic cord (disorder)	Thrombosis of spermatic cord
+67962003	Thrombosis of testis (disorder)	Thrombosis of testis
+43663004	Thrombosis of tunica vaginalis (disorder)	Thrombosis of tunica vaginalis
+198006006	Tight foreskin (finding)	Tight foreskin
+249256004	Tight frenulum of foreskin (finding)	Tight frenulum of foreskin
+249264005	Tightly retracted foreskin (finding)	Tightly retracted foreskin
+135869000	Torn frenulum of penis (disorder)	Torn frenulum of penis
+427783000	Torsion of appendix of epididymis (disorder)	Torsion of appendix of epididymis
+198047009	Torsion of appendix of testis (disorder)	Torsion of appendix of testis
+236776007	Torsion of epididymal cyst (disorder)	Torsion of epididymal cyst
+69282001	Torsion of epididymis (disorder)	Torsion of epididymis
+49198006	Torsion of spermatic cord (disorder)	Torsion of spermatic cord
+81996005	Torsion of testis (disorder)	Testicular torsion
+262920002	Transection of vas deferens (disorder)	Transection of vas deferens
+733387001	Traumatic amputation of entire penis (disorder)	Traumatic amputation of entire penis
+733390007	Traumatic amputation of entire scrotum (disorder)	Traumatic amputation of entire scrotum
+733389003	Traumatic amputation of entire testis (disorder)	Traumatic amputation of entire testis
+733388006	Traumatic amputation of part of penis (disorder)	Traumatic amputation of part of penis
+733392004	Traumatic amputation of part of scrotum (disorder)	Traumatic amputation of part of scrotum
+733391006	Traumatic amputation of part of testes (disorder)	Traumatic amputation of part of testes
+283952004	Traumatic amputation of penis (disorder)	Traumatic amputation of penis
+262923000	Traumatic amputation of testis (disorder)	Traumatic amputation of testis
+367951000119106	Traumatic anterior urethral stricture (disorder)	Traumatic anterior urethral stricture
+403462002	Traumatic balanitis (disorder)	Traumatic balanitis
+271127004	Traumatic blister of penis (disorder)	Traumatic blister of penis
+271143006	Traumatic blister of penis, infected (disorder)	Traumatic blister of penis, infected
+399951000	Traumatic blister of scrotum (disorder)	Traumatic blister of scrotum
+275443007	Traumatic blister of scrotum, infected (disorder)	Traumatic blister of scrotum, infected
+367961000119108	Traumatic bulbous urethral stricture (disorder)	Traumatic bulbous urethral stricture
+698557007	Traumatic hematoma of prepuce (disorder)	Traumatic haematoma of prepuce
+262922005	Traumatic hematoma of testis (disorder)	Traumatic haematoma of testis
+262913009	Traumatic rupture of male urethra (disorder)	Traumatic rupture of male urethra
+307579008	Traumatic scrotal hematoma (disorder)	Traumatic scrotal haematoma
+248534009	Trichomonal balanitis (disorder)	Trichomonal balanitis
+249414000	Trichomonal balanoposthitis (disorder)	Trichomonal balanoposthitis
+71590000	Trichomonal prostatitis (disorder)	Trichomonal prostatitis
+83652003	Tuberculosis of epididymis (disorder)	Tuberculosis of epididymis
+240379005	Tuberculosis of male genital organs (disorder)	Tuberculosis of male genital organs
+20372007	Tuberculosis of prostate (disorder)	Tuberculosis of prostate
+12985005	Tuberculosis of seminal vesicle (disorder)	Tuberculosis of seminal vesicle
+40258005	Tuberculosis of testis (disorder)	Tuberculosis of testis
+236770001	Tuberculous epididymo-orchitis (disorder)	Tuberculous epididymo-orchitis
+254911007	Tumor of corpus cavernosum (disorder)	Tumour of corpus cavernosum
+254910008	Tumor of corpus spongiosum (disorder)	Tumour of corpus spongiosum
+236740006	Tumor of seminal vesicle (disorder)	Tumour of seminal vesicle
+254906005	Tumor of skin of penis (disorder)	Tumour of skin of penis
+280116003	Tumor of tunica vaginalis (disorder)	Tumour of tunica vaginalis
+198066009	Tunica vaginalis stricture (disorder)	Tunica vaginalis stricture
+169840005	Two male babies (finding)	Two male babies
+76046001	Ulcer of penis (disorder)	Ulcer of penis
+300521006	Ulcer of prepuce (finding)	Ulcer of prepuce
+42330007	Ulcer of prostate (disorder)	Ulcer of prostate
+9750001	Ulcer of scrotum (disorder)	Ulcer of scrotum
+84352000	Ulcer of seminal vesicle (disorder)	Ulcer of seminal vesicle
+38673002	Ulcer of spermatic cord (disorder)	Ulcer of spermatic cord
+7129008	Ulcer of testis (disorder)	Ulcer of testis
+18682003	Ulcer of tunica vaginalis (disorder)	Ulcer of tunica vaginalis
+57963005	Ulcer of vas deferens (disorder)	Ulcer of vas deferens
+254740002	Ulcerative balanoposthitis (disorder)	Ulcerative balanoposthitis
+95589007	Ulcers of male genital organs (disorder)	Ulcers of male genital organs
+439420004	Uncircumcised penis (finding)	Uncircumcised penis
+444173008	Undervirilization of male due to steroidogenic acute regulatory protein deficiency (disorder)	Undervirilisation of male due to steroidogenic acute regulatory protein deficiency
+268228006	Undescended testes - bilateral (disorder)	Undescended testes - bilateral
+204878001	Undescended testicle (disorder)	Undescended testicle
+51070004	Varicocele (disorder)	Varicocele
+698191003	Varicocele palpable with Valsalva maneuver only (disorder)	Varicocele palpable with Valsalva manoeuvre only
+698190002	Varicocele palpable without Valsalva maneuver (disorder)	Varicocele palpable without Valsalva manoeuvre
+697985003	Varicocele visible through skin (disorder)	Varicocele visible through skin
+300506000	Vas deferens absent (finding)	Vas deferens absent
+300505001	Vas deferens present (finding)	Vas deferens present
+300507009	Vas deferens tender (finding)	Vas deferens tender
+280111008	Vascular disorder of corpus cavernosum (disorder)	Vascular disorder of corpus cavernosum
+198029003	Vascular disorder of penis (disorder)	Vascular disorder of penis
+371414009	Vascular disorder of scrotum (disorder)	Vascular disorder of scrotum
+236777003	Vascular disorder of testis and epididymis (disorder)	Vascular disorder of testis and epididymis
+8061000119107	Vasculopathic erectile dysfunction (disorder)	Vasculopathic erectile dysfunction
+48792006	Vasitis (disorder)	Vasitis
+248772002	Waking erection (finding)	Waking erection
+253852007	Webbed penis (disorder)	Webbed penis
+102510006	Well male adolescent (finding)	Well male adolescent
+102513008	Well male adult (finding)	Well male adult
+102507004	Well male child (finding)	Well male child
+102516000	Well male elder (finding)	Well male elder
+102501003	Well male newborn (finding)	Well male newborn
+102504006	Well premature male newborn (finding)	Well premature male newborn
+248781008	Wet dreams (finding)	Wet dreams
+204924000	Wolffian duct cyst - male (disorder)	Wolffian duct cyst - male
+771510006	X-linked central congenital hypothyroidism with late-onset testicular enlargement (disorder)	X-linked central congenital hypothyroidism with late-onset testicular enlargement
+262924006	Zipper injury of penis (disorder)	Zip fastener injury of penis
