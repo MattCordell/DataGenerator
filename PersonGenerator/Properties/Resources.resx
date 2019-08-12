@@ -118,6 +118,9 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="FemaleAgeSpread" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\data\femaleagespread.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
   <data name="FirstFemaleNames" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Data\FirstFemaleNames.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
@@ -129,5 +132,8 @@
   </data>
   <data name="LastNames" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Data\LastNames.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="MaleAgeSpread" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\data\maleagespread.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
 </root>

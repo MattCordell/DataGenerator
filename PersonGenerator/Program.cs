@@ -1,15 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Collections;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Collections.Specialized;
-using System.IO;
-using MathNet.Numerics;
-using MathNet.Numerics.Distributions;
-using MathNet.Numerics.Random;
-using System.Resources;
+
 
 
 namespace PersonGenerator
@@ -18,28 +10,35 @@ namespace PersonGenerator
     {
         static void Main(string[] args)
         {
-            var Generator = new PersonGenerator(2018);
-            Random rnd = new Random();
+            var Generator = new PersonGenerator(2019);
+            
 
             Console.WriteLine("Start");
 
-            Person p = new Person();           
+            Person p = new Person();
 
-            int num = 1000;
 
-            using (TextWriter wrtr = new StreamWriter("ListOfPeople.txt"))
+            int num = 100;
+
+            for (int i = 0; i < num; i++)
             {
-                for (int i = 0; i < num; i++)
-                {
-                    p.isFemale = Generator.GenerateSex();
-                    p.firstName = Generator.GetaFirstName(p.isFemale);
-                    p.lastName = Generator.GetaLastName();
-                    p.dob = Generator.GetaDOB(rnd.Next(100));
-
-                    wrtr.WriteLine(p.ToString());
-                }
-
+                p = Generator.NewGeneralPopulationMember();
+                Console.WriteLine(p.ToString());
             }
+
+            //using (TextWriter wrtr = new StreamWriter("ListOfPeople.txt"))
+            //{
+            //    for (int i = 0; i < num; i++)
+            //    {
+            //        p.isFemale = Generator.GenerateSex();
+            //        p.firstName = Generator.GetaFirstName(p.isFemale);
+            //        p.lastName = Generator.GetaLastName();
+            //        p.dob = Generator.GetaDOB(rnd.Next(100));
+
+            //        wrtr.WriteLine(p.ToString());
+            //    }
+
+            //}
 
             Console.WriteLine("Done");
             Console.ReadKey();
@@ -47,123 +46,5 @@ namespace PersonGenerator
 
         }
     }
-
-    class Person
-    {
-        public string firstName;
-        public string lastName;
-        public bool isFemale;
-        public DateTime dob;
-
-        public override string ToString()
-        {
-            return firstName + " " + lastName + " " + dob.ToString("d");
-        }
-
-
-    }
-
-
-    class PersonGenerator
-    {
-        public bool GenerateSex()
-        {
-            int x = rnd.Next(2);
-
-            if (x==0)
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
-
-        }
-
-        #region Name Generation
-
-        struct GenderedName { public string name ; public bool isFemale ;}
-
-        private ArrayList firstNames = new ArrayList();
-        private StringCollection lastNames = new StringCollection();
-        private Random rnd = new Random();
-        private int currentYear;
-
-        public PersonGenerator(int currYear)
-        {
-            InitialiseFirstNames();
-            InitialiseLastNames();
-            currentYear = currYear;
-
-        }
-
-        private void InitialiseLastNames()
-        {
-            using (TextReader rdr = new StreamReader(@"Data\LastNames.txt"))
-            {
-                string name;
-
-                while ((name = rdr.ReadLine()) != null)
-                {
-                    lastNames.Add(name);
-                }
-            }
-        }
-
-        private void InitialiseFirstNames()
-        {
-            GenderedName first = new GenderedName();
-
-            var femaleNames = Properties.Resources.FirstFemaleNames.Split(new string[] { Environment.NewLine }, StringSplitOptions.None);
-            foreach (var name in femaleNames)
-            {
-                first.isFemale = true;
-                firstNames.Add(first);
-            }
-
-            var maleNames = Properties.Resources.FirstMaleNames.Split(new string[] { Environment.NewLine }, StringSplitOptions.None);
-            foreach (var name in maleNames)
-            {
-                first.isFemale = false;
-                firstNames.Add(first);
-            }
-
-        }
-
-        public string GetaLastName()
-        {
-            int i = rnd.Next(lastNames.Count);
-            return lastNames[i];
-        }
-
-        public string GetaFirstName(bool isfem)
-        {
-            var query = from GenderedName f in firstNames
-                        where f.isFemale == isfem
-                        select f;
-
-            int i = rnd.Next(query.Count());
-            return query.ToArray()[i].name;
-        }
-
-        #endregion
-
-        #region birthdate generation     
-
-        public DateTime GetaDOB(int age)
-        {
-            int birthYear = currentYear - age;
-            int m = rnd.Next(1, 13);
-            int d = rnd.Next(1, DateTime.DaysInMonth(birthYear, m));
-
-            return new DateTime(birthYear, m, d);
-        }
-        
-        #endregion
-
-
-    }
-
 
 }

@@ -65,7 +65,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Data\FemaleAgeSpread.txt" />
     <Content Include="Data\InitialAgeDistribution.txt" />
+    <Content Include="Data\MaleAgeSpread.txt" />
     <Content Include="Data\SignificantDays.txt" />
     <Content Include="Data\FirstFemaleNames.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>

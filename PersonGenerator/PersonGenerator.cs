@@ -1,9 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using PersonGenerator;
 using Extensions;
 
 namespace PersonGenerator
@@ -12,27 +9,27 @@ namespace PersonGenerator
     {
         public string firstName;
         public string lastName;
-        public bool isFemale;
+        public char Sex;        
         public DateTime dob;
 
-        public char Sex
+        public bool isFemale
         {
             get
             {
-                if (isFemale)
+                if (Sex == 'F')
                 {
-                    return 'F';
+                    return true;
                 }
                 else
                 {
-                    return 'M';
+                    return false;
                 }
             }
         }
 
         public override string ToString()
         {
-            return firstName + " " + lastName + " " + Sex + " " + dob.ToString("d");
+            return firstName + "\t" + lastName + "\t" + Sex + "\t" + dob.ToString("d");
         }
         
     }
@@ -41,32 +38,35 @@ namespace PersonGenerator
     {
         private string[] maleNames = Properties.Resources.FirstMaleNames.Split(new string[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries);
         private string[] femaleNames = Properties.Resources.FirstFemaleNames.Split(new string[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries);
+        //private string[] lastNames = Properties.Resources.LastNames.Split(new string[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries);
         private string[] lastNames = Properties.Resources.LastNames.Split(new string[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries);
-        private float[] ageDistribution = Array.ConvertAll(Properties.Resources.InitialAgeDistribution.Split(new string[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries),float.Parse);
-        internal static Random rnd = new Random();
-        private int currentYear;
-        internal float SexSplit = 0.5f;
+        private double[] maleAgeSpread = ImportFrequencyList(Properties.Resources.MaleAgeSpread);
+        private double[] femaleAgeSpread = ImportFrequencyList(Properties.Resources.FemaleAgeSpread);
+        
+        private static double[] ImportFrequencyList(string frequencyList)
+        {          
+            var fList = new List<double>();
 
-        //object for generating new humans :D
-        Person human = new Person();
+            foreach (var item in frequencyList.Split(new string[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries))
+            {
+                fList.Add(double.Parse(item));
+            }
+
+            return fList.ToArray();
+        }              
+
+        internal static Random rng = new Random();
+        private int currentYear;
+        internal float maleRatio = 0.48f;
+
+
+    //object for generating new humans :D
+    Person human = new Person();
 
         public Person NewGeneralPopulationMember()
-        {
-            var age = GetRandomAge();
-            human.dob = GetaDOB(age);
-            human.isFemale = GenerateSex(age);
-            human.firstName = GetFirstName(human.isFemale);
-            human.lastName = GetLastName();
-
-            return human;
-        }
-
-        //Generate a new born
-        public Person NewBorn()
-        {
-            var age = 0;
-            human.dob = GetaDOB(age);
-            human.isFemale = GenerateSex(); // newborn uses ongoing sexSplit
+        {            
+            human.Sex = GenerateSex();
+            human.dob = GetaDOB(human.isFemale);            
             human.firstName = GetFirstName(human.isFemale);
             human.lastName = GetLastName();
 
@@ -82,68 +82,57 @@ namespace PersonGenerator
         {
             if (isFemale)
             {
-                return femaleNames.RandomElement(rnd);
+                return femaleNames.RandomElement(rng);
             }
             else
             {
-                return maleNames.RandomElement(rnd);
+                return maleNames.RandomElement(rng);
             }
         }
 
         public string GetLastName()
         {
-            return lastNames.RandomElement(rnd);
+            return lastNames.RandomElement(rng);
         }
 
-        public bool GenerateSex()
+        public char GenerateSex()
         {
-            //need to implement use of sexSplit, which will "drift"
-            int x = rnd.Next(2);
-
-            if (x == 0)
+            if (rng.NextDouble() > maleRatio)
             {
-                return true;
+                return 'F';
             }
             else
             {
-                return false;
+                return 'M';
             }
-
         }
 
-        //Age dependent method
-        public bool GenerateSex(int age)
+        public DateTime GetaDOB(bool isfemale)
         {
-            //need to implement age dependent sex distribution.
-            int x = rnd.Next(2);
-
-            if (x == 0)
+            int age;
+            var rnd = rng.NextDouble();
+            //get a age appropriate for sex
+            if (isfemale)
             {
-                return true;
+                
+                age = Array.IndexOf(femaleAgeSpread, femaleAgeSpread.Where(x => x > rnd).First());
             }
             else
             {
-                return false;
+                age = Array.IndexOf(maleAgeSpread, maleAgeSpread.Where(x => x > rnd).First());
             }
+            //special randomising for 100+
+            if (age==100)
+            {
+                age = rng.Next(100, 112);
+            }
+            
 
-        }
-
-        public DateTime GetaDOB(int age)
-        {
             int birthYear = currentYear - age;
-            int m = rnd.Next(1, 13);
-            int d = rnd.Next(1, DateTime.DaysInMonth(birthYear, m));
+            int m = rng.Next(1, 13);
+            int d = rng.Next(1, DateTime.DaysInMonth(birthYear, m));
 
             return new DateTime(birthYear, m, d);
-        }
-
-        public int GetRandomAge()
-        {
-            var v = rnd.NextDouble();
-            // select the min element greater than v
-            //currently the index == age
-            //cummulative age distribution allows normal randoms to select ages at correct rate.
-            return Array.IndexOf(ageDistribution, ageDistribution.Where(g => g > v).Min());                       
         }
 
     }
