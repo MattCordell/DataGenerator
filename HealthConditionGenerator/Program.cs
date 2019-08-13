@@ -31,7 +31,7 @@ namespace HealthConditionGenerator
     }
 
 
-    class HealthConditionGenerator
+    public class HealthConditionGenerator
     {
         List<List<Int64>> ECLs = new List<List<Int64>>();
         Dictionary<int, List<double>> FemaleFrequencies = new Dictionary<int, List<double>>();
