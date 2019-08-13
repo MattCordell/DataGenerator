@@ -5,7 +5,7 @@ using Extensions;
 
 namespace PersonGenerator
 {
-    class Person
+    public class Person
     {
         public string firstName;
         public string lastName;
@@ -27,6 +27,24 @@ namespace PersonGenerator
             }
         }
 
+        //Calculate Basic Age in years at specific date
+        public int Age(DateTime relativeTime)
+        {
+            var date = int.Parse(relativeTime.ToString("yyyyMMdd"));
+            var birthDate = int.Parse(this.dob.ToString("yyyyMMdd"));
+
+            return (date - birthDate) / 10000;
+        }
+
+        //Calculate Basic Age in years as of NOW!
+        public int Age()
+        {            
+            var now = int.Parse(DateTime.UtcNow.ToString("yyyyMMdd"));
+            var birthDate = int.Parse(this.dob.ToString("yyyyMMdd"));
+
+            return (now - birthDate) / 10000;
+        }
+
         public override string ToString()
         {
             return firstName + "\t" + lastName + "\t" + Sex + "\t" + dob.ToString("d");
@@ -34,7 +52,7 @@ namespace PersonGenerator
         
     }
 
-    class PersonGenerator
+    public class PersonGenerator
     {
         private string[] maleNames = Properties.Resources.FirstMaleNames.Split(new string[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries);
         private string[] femaleNames = Properties.Resources.FirstFemaleNames.Split(new string[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries);
