@@ -7,6 +7,7 @@ namespace PersonGenerator
 {
     public class Person
     {
+        public string id;
         public string firstName;
         public string lastName;
         public char Sex;        
@@ -47,7 +48,7 @@ namespace PersonGenerator
 
         public override string ToString()
         {
-            return firstName + "\t" + lastName + "\t" + Sex + "\t" + dob.ToString("d");
+            return id + "\t" + firstName + "\t" + lastName + "\t" + Sex + "\t" + dob.ToString("d");
         }
         
     }
@@ -82,7 +83,8 @@ namespace PersonGenerator
     Person human = new Person();
 
         public Person NewGeneralPopulationMember()
-        {            
+        {
+            human.id = Guid.NewGuid().ToString();
             human.Sex = GenerateSex();
             human.dob = GetaDOB(human.isFemale);            
             human.firstName = GetFirstName(human.isFemale);

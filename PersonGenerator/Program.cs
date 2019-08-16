@@ -15,18 +15,18 @@ namespace PersonGenerator
 
             Console.WriteLine("Start");
 
-            var p = new Person();
 
+            var p = new Person();
 
             int num = 100;
 
             for (int i = 0; i < num; i++)
-            {
+            {                
                 p = Generator.NewGeneralPopulationMember();
                 Console.WriteLine(p.ToString());
+                
             }
-
-
+            
             Console.WriteLine("Done");
             Console.ReadKey();
 
