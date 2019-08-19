@@ -53,6 +53,10 @@
       <Project>{f7d9355f-41af-4aef-a8d2-131c72016666}</Project>
       <Name>HealthConditionGenerator</Name>
     </ProjectReference>
+    <ProjectReference Include="..\MedGenerator\MedGenerator.csproj">
+      <Project>{d995bf61-52dd-46d3-95a0-b4ccc0b8b7c0}</Project>
+      <Name>MedGenerator</Name>
+    </ProjectReference>
     <ProjectReference Include="..\PersonGenerator\PersonGenerator.csproj">
       <Project>{9f3a8990-edbe-4585-a479-2bdd883b1d6d}</Project>
       <Name>PersonGenerator</Name>
