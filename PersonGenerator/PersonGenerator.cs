@@ -12,6 +12,7 @@ namespace PersonGenerator
         public string lastName;
         public char Sex;        
         public DateTime dob;
+        public string PostCode;
 
         public bool isFemale
         {
@@ -48,7 +49,8 @@ namespace PersonGenerator
 
         public override string ToString()
         {
-            return id + "\t" + firstName + "\t" + lastName + "\t" + Sex + "\t" + dob.ToString("d");
+            //return id + "\t" + firstName + "\t" + lastName + "\t" + Sex + "\t" + dob.ToString("d");
+            return firstName + "\t" + lastName + "\t" + Sex + "\t" + dob.ToString("d") + "\t" + PostCode;
         }
         
     }
@@ -89,8 +91,21 @@ namespace PersonGenerator
             human.dob = GetaDOB(human.isFemale);            
             human.firstName = GetFirstName(human.isFemale);
             human.lastName = GetLastName();
+            human.PostCode = GetNewPostCode();
 
             return human;
+        }
+
+        //some random, arbitrary postcode
+        private string GetNewPostCode()
+        {
+            string[] foo = { "A", "B", "C", "D", "E", "F", "G", "H", "I" };
+
+            var rng = new Random();
+            var c = foo[rng.Next(foo.Count())];
+            var n = rng.Next(10).ToString("D2");
+
+            return c + n;
         }
 
         public PersonGenerator(int currYear)
