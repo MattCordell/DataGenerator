@@ -1,0 +1,57 @@
+Male Exclusive
+(
+  (
+    << 249230006|Male genitalia finding (finding)|
+    OR
+    << 404684003|Clinical finding (finding)| {{ fullySpecifiedName wi "male" }}
+    OR
+    << 404684003|Clinical finding (finding)|:ANY=<<10052007|Male structure (body structure)|
+    OR
+    << 250498001|Semen finding (finding)|
+    OR
+    << 365429000|Finding of semen fertility (finding)|
+  )
+  MINUS
+  << 404684003|Clinical finding (finding)| {{ fullySpecifiedName wi "female"  }}
+)
+  OR << 407376001|Male-to-female transsexual (finding)|
+  OR (<<365956009|Finding of sexual orientation (finding)| MINUS <<89217008|Female homosexual (finding)|)
+
+
+Female Exclusive
+(
+  	(	
+    << 404684003|Clinical finding (finding)| {{ fullySpecifiedName wi "female"  }}
+    OR
+    << 248842004|Female genitalia finding (finding)|
+    OR
+    << 404684003|Clinical finding (finding)|:ANY=<<1086007|Female structure (body structure)|
+    OR
+    << 248982007|Pregnancy, childbirth and puerperium finding (finding)|
+OR
+<< 106002000|Disorder associated with menstruation AND/OR menopause (disorder)|
+    OR
+    << 213199004|Complications associated with artificial fertilization (disorder)|
+    OR
+    <<116339002|Breast finding (finding)|
+    OR 
+    << 404684003|Clinical finding (finding)|:ANY=<<116339002|Breast finding (finding)|
+	)
+    MINUS
+    << 404684003|Clinical finding (finding)| {{ fullySpecifiedName wi "male"  }}
+)
+OR <<407377005|Female-to-male transsexual (finding)|
+OR (<<365956009|Finding of sexual orientation (finding)| MINUS <<76102007|Male homosexual (finding)|)
+
+Fertility
+<< 248982007|Pregnancy, childbirth and puerperium finding (finding)|
+OR
+<< 213199004|Complications associated with artificial fertilization (disorder)|
+OR
+<< 118232004|Reproductive finding (finding)|
+OR
+<< 250498001|Semen finding (finding)|
+OR
+<< 365429000|Finding of semen fertility (finding)|
+OR
+<< 106002000|Disorder associated with menstruation AND/OR menopause (disorder)|

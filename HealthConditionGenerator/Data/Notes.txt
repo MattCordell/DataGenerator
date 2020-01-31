@@ -1,0 +1,12 @@
+
+            //https://stackoverflow.com/questions/18895751/subtract-a-generic-list-from-another
+            //^ substract list options.
+
+            List<int> odds = new List<int>{ 1, 3, 5, 7, 9,11,13,15,17,19,21 };
+            List<int> primes = new List<int> { 1, 3, 5, 7, 11, 13, 17, 19 };
+
+            var nonprimeOdds = odds.Except(primes);
+            foreach (var item in nonprimeOdds)
+            {
+                Console.WriteLine(item.ToString());
+            }
